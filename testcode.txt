@@ -1,0 +1,22 @@
+#   install.packages("rredlist")  # Install the 'rredlist' package 
+#   library(rredlist)             # Load the 'rredlist' package to use its functions
+#   key <- "dTWsLj5NS8HHgrGKEyHsEWinmRZiAcM1AHer"  # Set your IUCN API key
+# Create a data frame 'df' with columns 'genus' and 'species' containing species names
+#   df <- data.frame(
+#     genus = c("Loxodonta", "Panthera", "Gorilla"),
+#     species = c("africana", "leo", "gorilla"),
+#     stringsAsFactors = FALSE     # Prevent automatic conversion of strings to factors
+#   )
+#   results <- list()             # Initialize an empty list to store assessments for each species
+#   for (i in 1:nrow(df)) {       # Loop over each row (species) in the data frame
+#     res <- rl_species(genus = df$genus[i], species = df$species[i], key = key)  # Get species info from IUCN API
+#     assessments <- res$assessments  # Extract the 'assessments' part from the API response
+#     if (!is.null(assessments) && nrow(assessments) > 0) {  # Check if assessments exist and are not empty
+#       assessments$genus <- df$genus[i]      # Add a 'genus' column to keep track of species genus
+#       assessments$species <- df$species[i]  # Add a 'species' column to keep track of species name
+#       results[[length(results) + 1]] <- assessments  # Append this species' assessments to the results list
+#     }
+#   }
+# Combine all data frames in the results list into a single data frame by row-binding
+#   all_assessments <- do.call(rbind, results)
+#   all_assessments  # Display the combined data frame with assessments for all species
