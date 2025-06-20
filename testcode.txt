@@ -2,7 +2,7 @@ install.packages("rredlist")  # Install the 'rredlist' package from CRAN to acce
 
 library(rredlist)             # Load the 'rredlist' package to make its functions available in the session
 
-key <- key # Store your IUCN API key as a character string
+key <- "key" # Store your IUCN API key as a character string
 
 # Create a data frame 'df' with columns for genus and species names of target organisms
 df <- data.frame(
