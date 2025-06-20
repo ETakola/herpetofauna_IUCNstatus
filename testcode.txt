@@ -1,22 +1,48 @@
-#   install.packages("rredlist")  # Install the 'rredlist' package 
-#   library(rredlist)             # Load the 'rredlist' package to use its functions
-#   key <- "dTWsLj5NS8HHgrGKEyHsEWinmRZiAcM1AHer"  # Set your IUCN API key
-# Create a data frame 'df' with columns 'genus' and 'species' containing species names
-#   df <- data.frame(
-#     genus = c("Loxodonta", "Panthera", "Gorilla"),
-#     species = c("africana", "leo", "gorilla"),
-#     stringsAsFactors = FALSE     # Prevent automatic conversion of strings to factors
-#   )
-#   results <- list()             # Initialize an empty list to store assessments for each species
-#   for (i in 1:nrow(df)) {       # Loop over each row (species) in the data frame
-#     res <- rl_species(genus = df$genus[i], species = df$species[i], key = key)  # Get species info from IUCN API
-#     assessments <- res$assessments  # Extract the 'assessments' part from the API response
-#     if (!is.null(assessments) && nrow(assessments) > 0) {  # Check if assessments exist and are not empty
-#       assessments$genus <- df$genus[i]      # Add a 'genus' column to keep track of species genus
-#       assessments$species <- df$species[i]  # Add a 'species' column to keep track of species name
-#       results[[length(results) + 1]] <- assessments  # Append this species' assessments to the results list
-#     }
-#   }
-# Combine all data frames in the results list into a single data frame by row-binding
-#   all_assessments <- do.call(rbind, results)
-#   all_assessments  # Display the combined data frame with assessments for all species
+install.packages("rredlist")  # Install the 'rredlist' package from CRAN to access IUCN Red List API
+
+library(rredlist)             # Load the 'rredlist' package to make its functions available in the session
+
+key <- "dTWsLj5NS8HHgrGKEyHsEWinmRZiAcM1AHer"  # Store your IUCN API key as a character string
+
+# Create a data frame 'df' with columns for genus and species names of target organisms
+df <- data.frame(
+  genus = c("Loxodonta", "Panthera", "Gorilla"),  # Vector of genus names
+  species = c("africana", "leo", "gorilla"),      # Vector of corresponding species names
+  stringsAsFactors = FALSE                        # Ensure text strings are kept as characters, not factors
+)
+
+results <- list()  # Initialize an empty list to collect assessment results from the API
+
+# Loop over each row in the species data frame
+for (i in 1:nrow(df)) {
+  # Use tryCatch to safely attempt to fetch IUCN Red List data for each species
+  res <- tryCatch(
+    rl_species(genus = df$genus[i], species = df$species[i], key = key),  # Call API for current species
+    error = function(e) return(NULL)  # If there's an error (e.g., species not found), return NULL
+  )
+  
+  # Proceed only if the result is not NULL and contains a valid 'assessments' data frame
+  if (!is.null(res) && !is.null(res$assessments) && is.data.frame(res$assessments) && nrow(res$assessments) > 0) {
+    assessments <- res$assessments  # Extract the 'assessments' data frame from the result
+    assessments$genus <- df$genus[i]     # Add genus information to the assessment
+    assessments$species <- df$species[i] # Add species information to the assessment
+    results[[length(results) + 1]] <- assessments  # Append the assessment to the results list
+  }
+}
+
+# Combine all individual assessments in the results list into a single data frame
+all_assessments <- do.call(rbind, results)  # Row-bind all assessments together
+
+# Extract the scope description from the nested 'scopes' column, if it exists
+all_assessments$scope_description <- sapply(all_assessments$scopes, function(scope) {
+  if (is.data.frame(scope) && "description" %in% names(scope)) {  # Check if 'description' exists in the data frame
+    if (is.data.frame(scope$description) && "en" %in% names(scope$description)) {  # Check if English description exists
+      return(scope$description$en[1])  # Return the first English description
+    }
+  }
+  return(NA)  # If structure is missing or invalid, return NA
+})
+
+all_assessments$scopes <- NULL  # Remove the original nested 'scopes' column now that it's been flattened
+
+all_assessments  # Display the final combined assessments data frame in the console
