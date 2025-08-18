@@ -1,0 +1,869 @@
+,year_published,latest,possibly_extinct,possibly_extinct_in_the_wild,sis_taxon_id,url,taxon_scientific_name,red_list_category_code,assessment_id,genus,species,scope_description
+1,2024,TRUE,FALSE,FALSE,213773477,https://www.iucnredlist.org/species/213773477/252401941,Laudakia stellio,LC,252401941,Laudakia,stellio,Global
+2,2024,TRUE,FALSE,FALSE,213773477,https://www.iucnredlist.org/species/213773477/204680547,Laudakia stellio,LC,204680547,Laudakia,stellio,Europe
+3,2024,TRUE,FALSE,FALSE,157278,https://www.iucnredlist.org/species/157278/128895072,Phrynocephalus guttatus,LC,128895072,Phrynocephalus,guttatus,Europe
+4,2017,TRUE,FALSE,FALSE,157278,https://www.iucnredlist.org/species/157278/747934,Phrynocephalus guttatus,LC,747934,Phrynocephalus,guttatus,Global
+5,2009,FALSE,FALSE,FALSE,157278,https://www.iucnredlist.org/species/157278/5068551,Phrynocephalus guttatus,LC,5068551,Phrynocephalus,guttatus,Europe
+6,2024,TRUE,FALSE,FALSE,48835941,https://www.iucnredlist.org/species/48835941/200006718,Phrynocephalus helioscopus,VU,200006718,Phrynocephalus,helioscopus,Europe
+7,2019,TRUE,FALSE,FALSE,48835941,https://www.iucnredlist.org/species/48835941/48679076,Phrynocephalus helioscopus,LC,48679076,Phrynocephalus,helioscopus,Global
+8,2024,TRUE,FALSE,FALSE,157250,https://www.iucnredlist.org/species/157250/204679413,Phrynocephalus mystaceus,LC,204679413,Phrynocephalus,mystaceus,Europe
+9,2019,TRUE,FALSE,FALSE,157250,https://www.iucnredlist.org/species/157250/744631,Phrynocephalus mystaceus,LC,744631,Phrynocephalus,mystaceus,Global
+10,2009,FALSE,FALSE,FALSE,157250,https://www.iucnredlist.org/species/157250/5060359,Phrynocephalus mystaceus,LC,5060359,Phrynocephalus,mystaceus,Europe
+11,2024,TRUE,FALSE,FALSE,204702171,https://www.iucnredlist.org/species/204702171/137846946,Blanus cinereus,LC,137846946,Blanus,cinereus,Global; Europe; Mediterranean
+12,2024,TRUE,FALSE,FALSE,204702171,https://www.iucnredlist.org/species/204702171/137846946,Blanus cinereus,LC,137846946,Blanus,cinereus,Global; Europe; Mediterranean
+13,2024,TRUE,FALSE,FALSE,204702171,https://www.iucnredlist.org/species/204702171/137846946,Blanus cinereus,LC,137846946,Blanus,cinereus,Global; Europe; Mediterranean
+14,2024,TRUE,FALSE,FALSE,200115910,https://www.iucnredlist.org/species/200115910/137861236,Blanus strauchi,LC,137861236,Blanus,strauchi,Global
+15,2024,TRUE,FALSE,FALSE,200115910,https://www.iucnredlist.org/species/200115910/266891444,Blanus strauchi,LC,266891444,Blanus,strauchi,Europe
+16,2009,FALSE,FALSE,FALSE,200115910,https://www.iucnredlist.org/species/200115910/266891311,Blanus strauchi,NA,266891311,Blanus,strauchi,Europe
+17,2024,TRUE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/137846721,Anguis cephallonica,LC,137846721,Anguis,cephallonica,Global; Europe; Mediterranean
+18,2024,TRUE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/137846721,Anguis cephallonica,LC,137846721,Anguis,cephallonica,Global; Europe; Mediterranean
+19,2024,TRUE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/137846721,Anguis cephallonica,LC,137846721,Anguis,cephallonica,Global; Europe; Mediterranean
+20,2017,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/118230809,Anguis cephallonica,NT,118230809,Anguis,cephallonica,Global; Europe
+21,2017,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/118230809,Anguis cephallonica,NT,118230809,Anguis,cephallonica,Global; Europe
+22,2009,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/12490356,Anguis cephallonica,NT,12490356,Anguis,cephallonica,Global; Europe
+23,2009,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/12490356,Anguis cephallonica,NT,12490356,Anguis,cephallonica,Global; Europe
+24,2006,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/12490512,Anguis cephallonica,NT,12490512,Anguis,cephallonica,Global; Europe
+25,2006,FALSE,FALSE,FALSE,61467,https://www.iucnredlist.org/species/61467/12490512,Anguis cephallonica,NT,12490512,Anguis,cephallonica,Global; Europe
+26,2024,TRUE,FALSE,FALSE,47113126,https://www.iucnredlist.org/species/47113126/204902180,Anguis fragilis,LC,204902180,Anguis,fragilis,Global; Europe
+27,2024,TRUE,FALSE,FALSE,47113126,https://www.iucnredlist.org/species/47113126/204902180,Anguis fragilis,LC,204902180,Anguis,fragilis,Global; Europe
+28,2021,FALSE,FALSE,FALSE,47113126,https://www.iucnredlist.org/species/47113126/744263,Anguis fragilis,LC,744263,Anguis,fragilis,Global
+29,2021,FALSE,FALSE,FALSE,47113126,https://www.iucnredlist.org/species/47113126/216974823,Anguis fragilis,LC,216974823,Anguis,fragilis,Global; Europe
+30,2021,FALSE,FALSE,FALSE,47113126,https://www.iucnredlist.org/species/47113126/216974823,Anguis fragilis,LC,216974823,Anguis,fragilis,Global; Europe
+31,2024,TRUE,FALSE,FALSE,157263,https://www.iucnredlist.org/species/157263/204911476,Pseudopus apodus,LC,204911476,Pseudopus,apodus,Europe
+32,2021,TRUE,FALSE,FALSE,157263,https://www.iucnredlist.org/species/157263/745759,Pseudopus apodus,LC,745759,Pseudopus,apodus,Global
+33,2009,FALSE,FALSE,FALSE,157263,https://www.iucnredlist.org/species/157263/5064890,Pseudopus apodus,LC,5064890,Pseudopus,apodus,Europe
+34,2024,TRUE,FALSE,FALSE,157244,https://www.iucnredlist.org/species/157244/204911892,Eryx jaculus,LC,204911892,Eryx,jaculus,Europe
+35,2021,TRUE,FALSE,FALSE,157244,https://www.iucnredlist.org/species/157244/743082,Eryx jaculus,LC,743082,Eryx,jaculus,Global
+36,2009,FALSE,FALSE,FALSE,157244,https://www.iucnredlist.org/species/157244/5058568,Eryx jaculus,LC,5058568,Eryx,jaculus,Europe
+37,2024,TRUE,FALSE,FALSE,157269,https://www.iucnredlist.org/species/157269/207642827,Eryx miliaris,LC,207642827,Eryx,miliaris,Europe
+38,2021,TRUE,FALSE,FALSE,157269,https://www.iucnredlist.org/species/157269/746649,Eryx miliaris,LC,746649,Eryx,miliaris,Global
+39,2009,FALSE,FALSE,FALSE,157269,https://www.iucnredlist.org/species/157269/5066497,Eryx miliaris,LC,5066497,Eryx,miliaris,Europe
+40,2024,TRUE,FALSE,FALSE,157273,https://www.iucnredlist.org/species/157273/204875915,Chamaeleo africanus,NA,204875915,Chamaeleo,africanus,Europe
+41,2014,TRUE,FALSE,FALSE,157273,https://www.iucnredlist.org/species/157273/747133,Chamaeleo africanus,LC,747133,Chamaeleo,africanus,Global
+42,2009,FALSE,FALSE,FALSE,157273,https://www.iucnredlist.org/species/157273/5067272,Chamaeleo africanus,NA,5067272,Chamaeleo,africanus,Europe
+43,2024,TRUE,FALSE,FALSE,157246,https://www.iucnredlist.org/species/157246/207643203,Chamaeleo chamaeleon,NA,207643203,Chamaeleo,chamaeleon,Europe
+44,2012,TRUE,FALSE,FALSE,157246,https://www.iucnredlist.org/species/157246/743434,Chamaeleo chamaeleon,LC,743434,Chamaeleo,chamaeleon,Global
+45,2009,FALSE,FALSE,FALSE,157246,https://www.iucnredlist.org/species/157246/5059239,Chamaeleo chamaeleon,NA,5059239,Chamaeleo,chamaeleon,Europe
+46,2024,TRUE,FALSE,FALSE,157284,https://www.iucnredlist.org/species/157284/204914315,Coronella austriaca,LC,204914315,Coronella,austriaca,Europe
+47,2017,TRUE,FALSE,FALSE,157284,https://www.iucnredlist.org/species/157284/748852,Coronella austriaca,LC,748852,Coronella,austriaca,Global
+48,2009,FALSE,FALSE,FALSE,157284,https://www.iucnredlist.org/species/157284/5070002,Coronella austriaca,LC,5070002,Coronella,austriaca,Europe
+49,2024,TRUE,FALSE,FALSE,61491,https://www.iucnredlist.org/species/61491/137849296,Coronella girondica,LC,137849296,Coronella,girondica,Europe
+50,2009,FALSE,FALSE,FALSE,61491,https://www.iucnredlist.org/species/61491/12481171,Coronella girondica,LC,12481171,Coronella,girondica,Europe
+51,2009,FALSE,FALSE,FALSE,61491,https://www.iucnredlist.org/species/61491/12480967,Coronella girondica,LC,12480967,Coronella,girondica,Global
+52,2009,TRUE,FALSE,FALSE,61491,https://www.iucnredlist.org/species/61491/86249650,Coronella girondica,LC,86249650,Coronella,girondica,Global
+53,2006,FALSE,FALSE,FALSE,61491,https://www.iucnredlist.org/species/61491/12480819,Coronella girondica,LC,12480819,Coronella,girondica,Global
+54,2024,TRUE,FALSE,FALSE,157267,https://www.iucnredlist.org/species/157267/204916174,Dolichophis caspius,LC,204916174,Dolichophis,caspius,Europe
+55,2017,TRUE,FALSE,FALSE,157267,https://www.iucnredlist.org/species/157267/746211,Dolichophis caspius,LC,746211,Dolichophis,caspius,Global
+56,2009,FALSE,FALSE,FALSE,157267,https://www.iucnredlist.org/species/157267/5066068,Dolichophis caspius,LC,5066068,Dolichophis,caspius,Europe
+57,2024,TRUE,FALSE,FALSE,157294,https://www.iucnredlist.org/species/157294/204916461,Dolichophis jugularis,LC,204916461,Dolichophis,jugularis,Europe
+58,2012,TRUE,FALSE,FALSE,157294,https://www.iucnredlist.org/species/157294/749921,Dolichophis jugularis,LC,749921,Dolichophis,jugularis,Global
+59,2009,FALSE,FALSE,FALSE,157294,https://www.iucnredlist.org/species/157294/5073463,Dolichophis jugularis,LC,5073463,Dolichophis,jugularis,Europe
+60,2009,FALSE,FALSE,FALSE,157294,https://www.iucnredlist.org/species/157294/5073256,Dolichophis jugularis,LC,5073256,Dolichophis,jugularis,Global
+61,2024,TRUE,FALSE,FALSE,157292,https://www.iucnredlist.org/species/157292/137861955,Eirenis modestus,LC,137861955,Eirenis,modestus,Europe
+62,2009,FALSE,FALSE,FALSE,157292,https://www.iucnredlist.org/species/157292/5072732,Eirenis modestus,LC,5072732,Eirenis,modestus,Europe
+63,2009,TRUE,FALSE,FALSE,157292,https://www.iucnredlist.org/species/157292/5072508,Eirenis modestus,LC,5072508,Eirenis,modestus,Global
+64,2024,TRUE,FALSE,FALSE,157275,https://www.iucnredlist.org/species/157275/199524634,Elaphe dione,LC,199524634,Elaphe,dione,Europe
+65,2017,TRUE,FALSE,FALSE,157275,https://www.iucnredlist.org/species/157275/747623,Elaphe dione,LC,747623,Elaphe,dione,Global
+66,2009,FALSE,FALSE,FALSE,157275,https://www.iucnredlist.org/species/157275/5067782,Elaphe dione,LC,5067782,Elaphe,dione,Europe
+67,2024,TRUE,FALSE,FALSE,157264,https://www.iucnredlist.org/species/157264/204978521,Elaphe quatuorlineata,LC,204978521,Elaphe,quatuorlineata,Global; Europe
+68,2024,TRUE,FALSE,FALSE,157264,https://www.iucnredlist.org/species/157264/204978521,Elaphe quatuorlineata,LC,204978521,Elaphe,quatuorlineata,Global; Europe
+69,2009,FALSE,FALSE,FALSE,157264,https://www.iucnredlist.org/species/157264/5065135,Elaphe quatuorlineata,NT,5065135,Elaphe,quatuorlineata,Global; Europe
+70,2009,FALSE,FALSE,FALSE,157264,https://www.iucnredlist.org/species/157264/5065135,Elaphe quatuorlineata,NT,5065135,Elaphe,quatuorlineata,Global; Europe
+71,2024,TRUE,FALSE,FALSE,157265,https://www.iucnredlist.org/species/157265/200131166,Elaphe sauromates,LC,200131166,Elaphe,sauromates,Europe
+72,2017,TRUE,FALSE,FALSE,157265,https://www.iucnredlist.org/species/157265/746010,Elaphe sauromates,LC,746010,Elaphe,sauromates,Global
+73,2009,FALSE,FALSE,FALSE,157265,https://www.iucnredlist.org/species/157265/5065311,Elaphe sauromates,LC,5065311,Elaphe,sauromates,Europe
+74,2024,TRUE,FALSE,FALSE,61509,https://www.iucnredlist.org/species/61509/207643905,Hemorrhois hippocrepis,LC,207643905,Hemorrhois,hippocrepis,Europe
+75,2009,FALSE,FALSE,FALSE,61509,https://www.iucnredlist.org/species/61509/12495724,Hemorrhois hippocrepis,LC,12495724,Hemorrhois,hippocrepis,Europe
+76,2009,TRUE,FALSE,FALSE,61509,https://www.iucnredlist.org/species/61509/12495496,Hemorrhois hippocrepis,LC,12495496,Hemorrhois,hippocrepis,Global
+77,2006,FALSE,FALSE,FALSE,61509,https://www.iucnredlist.org/species/61509/12495356,Hemorrhois hippocrepis,LC,12495356,Hemorrhois,hippocrepis,Global
+78,2024,TRUE,FALSE,FALSE,157270,https://www.iucnredlist.org/species/157270/244574857,Hemorrhois nummifer,LC,244574857,Hemorrhois,nummifer,Europe
+79,2017,TRUE,FALSE,FALSE,157270,https://www.iucnredlist.org/species/157270/746934,Hemorrhois nummifer,LC,746934,Hemorrhois,nummifer,Global
+80,2009,FALSE,FALSE,FALSE,157270,https://www.iucnredlist.org/species/157270/5066723,Hemorrhois nummifer,LC,5066723,Hemorrhois,nummifer,Europe
+81,2024,TRUE,FALSE,FALSE,157285,https://www.iucnredlist.org/species/157285/207644599,Hemorrhois ravergieri,NA,207644599,Hemorrhois,ravergieri,Europe
+82,2017,TRUE,FALSE,FALSE,157285,https://www.iucnredlist.org/species/157285/749241,Hemorrhois ravergieri,LC,749241,Hemorrhois,ravergieri,Global
+83,2009,FALSE,FALSE,FALSE,157285,https://www.iucnredlist.org/species/157285/5070367,Hemorrhois ravergieri,NA,5070367,Hemorrhois,ravergieri,Europe
+84,2024,TRUE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/137844254,Hierophis cypriensis,NT,137844254,Hierophis,cypriensis,Global; Europe; Mediterranean
+85,2024,TRUE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/137844254,Hierophis cypriensis,NT,137844254,Hierophis,cypriensis,Global; Europe; Mediterranean
+86,2024,TRUE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/137844254,Hierophis cypriensis,NT,137844254,Hierophis,cypriensis,Global; Europe; Mediterranean
+87,2009,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485322,Hierophis cypriensis,EN,12485322,Hierophis,cypriensis,Global; Europe
+88,2009,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485322,Hierophis cypriensis,EN,12485322,Hierophis,cypriensis,Global; Europe
+89,2006,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485461,Hierophis cypriensis,EN,12485461,Hierophis,cypriensis,Global; Europe
+90,2006,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485461,Hierophis cypriensis,EN,12485461,Hierophis,cypriensis,Global; Europe
+91,1996,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485278,Hierophis cypriensis,EN,12485278,Hierophis,cypriensis,Global; Europe
+92,1996,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485278,Hierophis cypriensis,EN,12485278,Hierophis,cypriensis,Global; Europe
+93,1996,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485600,Hierophis cypriensis,EN,12485600,Hierophis,cypriensis,Global; Europe
+94,1996,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485600,Hierophis cypriensis,EN,12485600,Hierophis,cypriensis,Global; Europe
+95,1994,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485579,Hierophis cypriensis,V,12485579,Hierophis,cypriensis,Global; Europe
+96,1994,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485579,Hierophis cypriensis,V,12485579,Hierophis,cypriensis,Global; Europe
+97,1990,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485301,Hierophis cypriensis,V,12485301,Hierophis,cypriensis,Global; Europe
+98,1990,FALSE,FALSE,FALSE,61443,https://www.iucnredlist.org/species/61443/12485301,Hierophis cypriensis,V,12485301,Hierophis,cypriensis,Global; Europe
+99,2024,TRUE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/137851210,Hierophis gemonensis,LC,137851210,Hierophis,gemonensis,Global; Europe
+100,2024,TRUE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/137851210,Hierophis gemonensis,LC,137851210,Hierophis,gemonensis,Global; Europe
+101,2009,FALSE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/12496555,Hierophis gemonensis,LC,12496555,Hierophis,gemonensis,Global; Europe
+102,2009,FALSE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/12496555,Hierophis gemonensis,LC,12496555,Hierophis,gemonensis,Global; Europe
+103,2006,FALSE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/12496739,Hierophis gemonensis,LC,12496739,Hierophis,gemonensis,Global; Europe
+104,2006,FALSE,FALSE,FALSE,61510,https://www.iucnredlist.org/species/61510/12496739,Hierophis gemonensis,LC,12496739,Hierophis,gemonensis,Global; Europe
+105,2024,TRUE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/137844938,Hierophis viridiflavus,LC,137844938,Hierophis,viridiflavus,Global; Europe
+106,2024,TRUE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/137844938,Hierophis viridiflavus,LC,137844938,Hierophis,viridiflavus,Global; Europe
+107,2009,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/12487580,Hierophis viridiflavus,LC,12487580,Hierophis,viridiflavus,Global; Europe
+108,2009,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/86246670,Hierophis viridiflavus,LC,86246670,Hierophis,viridiflavus,Global; Europe
+109,2009,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/86246670,Hierophis viridiflavus,LC,86246670,Hierophis,viridiflavus,Global; Europe
+110,2009,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/12487580,Hierophis viridiflavus,LC,12487580,Hierophis,viridiflavus,Global; Europe
+111,2006,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/12487740,Hierophis viridiflavus,LC,12487740,Hierophis,viridiflavus,Global; Europe
+112,2006,FALSE,FALSE,FALSE,61449,https://www.iucnredlist.org/species/61449/12487740,Hierophis viridiflavus,LC,12487740,Hierophis,viridiflavus,Global; Europe
+113,2024,TRUE,FALSE,FALSE,61532,https://www.iucnredlist.org/species/61532/207750368,Macroprotodon brevis,LC,207750368,Macroprotodon,brevis,Europe
+114,2009,FALSE,FALSE,FALSE,61532,https://www.iucnredlist.org/species/61532/12508523,Macroprotodon brevis,NT,12508523,Macroprotodon,brevis,Europe
+115,2009,TRUE,FALSE,FALSE,61532,https://www.iucnredlist.org/species/61532/12508324,Macroprotodon brevis,NT,12508324,Macroprotodon,brevis,Global
+116,2006,FALSE,FALSE,FALSE,61532,https://www.iucnredlist.org/species/61532/12508171,Macroprotodon brevis,NT,12508171,Macroprotodon,brevis,Global
+117,2024,TRUE,FALSE,FALSE,61533,https://www.iucnredlist.org/species/61533/204878846,Macroprotodon cucullatus,DD,204878846,Macroprotodon,cucullatus,Europe
+118,2009,FALSE,FALSE,FALSE,61533,https://www.iucnredlist.org/species/61533/12509221,Macroprotodon cucullatus,LC,12509221,Macroprotodon,cucullatus,Europe
+119,2009,FALSE,FALSE,FALSE,61533,https://www.iucnredlist.org/species/61533/12508918,Macroprotodon cucullatus,LC,12508918,Macroprotodon,cucullatus,Global
+120,2009,TRUE,FALSE,FALSE,61533,https://www.iucnredlist.org/species/61533/204862390,Macroprotodon cucullatus,LC,204862390,Macroprotodon,cucullatus,Global
+121,2006,FALSE,FALSE,FALSE,61533,https://www.iucnredlist.org/species/61533/12508707,Macroprotodon cucullatus,LC,12508707,Macroprotodon,cucullatus,Global
+122,2024,TRUE,FALSE,FALSE,157253,https://www.iucnredlist.org/species/157253/207992632,Malpolon insignitus,LC,207992632,Malpolon,insignitus,Europe
+123,2021,TRUE,FALSE,FALSE,157253,https://www.iucnredlist.org/species/157253/744783,Malpolon insignitus,LC,744783,Malpolon,insignitus,Global
+124,2009,FALSE,FALSE,FALSE,157253,https://www.iucnredlist.org/species/157253/5061050,Malpolon insignitus,LC,5061050,Malpolon,insignitus,Europe
+125,2024,TRUE,FALSE,FALSE,157262,https://www.iucnredlist.org/species/157262/207993538,Malpolon monspessulanus,LC,207993538,Malpolon,monspessulanus,Europe
+126,2009,FALSE,FALSE,FALSE,157262,https://www.iucnredlist.org/species/157262/5064665,Malpolon monspessulanus,LC,5064665,Malpolon,monspessulanus,Europe
+127,2009,TRUE,FALSE,FALSE,157262,https://www.iucnredlist.org/species/157262/5064442,Malpolon monspessulanus,LC,5064442,Malpolon,monspessulanus,Global
+128,2024,TRUE,FALSE,FALSE,61538,https://www.iucnredlist.org/species/61538/207658281,Natrix maura,LC,207658281,Natrix,maura,Europe
+129,2009,FALSE,FALSE,FALSE,61538,https://www.iucnredlist.org/species/61538/12510620,Natrix maura,LC,12510620,Natrix,maura,Europe
+130,2009,TRUE,FALSE,FALSE,61538,https://www.iucnredlist.org/species/61538/12510365,Natrix maura,LC,12510365,Natrix,maura,Global
+131,2006,FALSE,FALSE,FALSE,61538,https://www.iucnredlist.org/species/61538/12510195,Natrix maura,LC,12510195,Natrix,maura,Global
+132,2024,TRUE,FALSE,FALSE,165594334,https://www.iucnredlist.org/species/165594334/207658588,Natrix natrix,LC,207658588,Natrix,natrix,Europe
+133,2021,TRUE,FALSE,FALSE,165594334,https://www.iucnredlist.org/species/165594334/545209,Natrix natrix,LC,545209,Natrix,natrix,Global
+134,2024,TRUE,FALSE,FALSE,157256,https://www.iucnredlist.org/species/157256/207993095,Natrix tessellata,LC,207993095,Natrix,tessellata,Europe
+135,2021,TRUE,FALSE,FALSE,157256,https://www.iucnredlist.org/species/157256/745071,Natrix tessellata,LC,745071,Natrix,tessellata,Global
+136,2010,FALSE,FALSE,FALSE,157256,https://www.iucnredlist.org/species/157256/5062170,Natrix tessellata,LC,5062170,Natrix,tessellata,Global
+137,2009,FALSE,FALSE,FALSE,157256,https://www.iucnredlist.org/species/157256/5061767,Natrix tessellata,LC,5061767,Natrix,tessellata,Europe
+138,2024,TRUE,FALSE,FALSE,61543,https://www.iucnredlist.org/species/61543/207646198,Platyceps collaris,LC,207646198,Platyceps,collaris,Europe
+139,2009,FALSE,FALSE,FALSE,61543,https://www.iucnredlist.org/species/61543/12512124,Platyceps collaris,LC,12512124,Platyceps,collaris,Europe
+140,2009,TRUE,FALSE,FALSE,61543,https://www.iucnredlist.org/species/61543/12511985,Platyceps collaris,LC,12511985,Platyceps,collaris,Global
+141,2006,FALSE,FALSE,FALSE,61543,https://www.iucnredlist.org/species/61543/12511871,Platyceps collaris,LC,12511871,Platyceps,collaris,Global
+142,2024,TRUE,FALSE,FALSE,157277,https://www.iucnredlist.org/species/157277/207994241,Platyceps najadum,LC,207994241,Platyceps,najadum,Europe
+143,2009,FALSE,FALSE,FALSE,157277,https://www.iucnredlist.org/species/157277/5068300,Platyceps najadum,LC,5068300,Platyceps,najadum,Europe
+144,2009,TRUE,FALSE,FALSE,157277,https://www.iucnredlist.org/species/157277/5068046,Platyceps najadum,LC,5068046,Platyceps,najadum,Global
+145,2024,TRUE,FALSE,FALSE,157258,https://www.iucnredlist.org/species/157258/137860744,Telescopus fallax,LC,137860744,Telescopus,fallax,Europe
+146,2009,FALSE,FALSE,FALSE,157258,https://www.iucnredlist.org/species/157258/5063142,Telescopus fallax,LC,5063142,Telescopus,fallax,Europe
+147,2009,TRUE,FALSE,FALSE,157258,https://www.iucnredlist.org/species/157258/5062870,Telescopus fallax,LC,5062870,Telescopus,fallax,Global
+148,2024,TRUE,FALSE,FALSE,157251,https://www.iucnredlist.org/species/157251/205719449,Zamenis hohenackeri,DD,205719449,Zamenis,hohenackeri,Europe
+149,2009,FALSE,FALSE,FALSE,157251,https://www.iucnredlist.org/species/157251/5060729,Zamenis hohenackeri,NE,5060729,Zamenis,hohenackeri,Europe
+150,2009,TRUE,FALSE,FALSE,157251,https://www.iucnredlist.org/species/157251/5060528,Zamenis hohenackeri,LC,5060528,Zamenis,hohenackeri,Global
+151,2024,TRUE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/205824302,Zamenis lineatus,LC,205824302,Zamenis,lineatus,Global; Europe; Mediterranean
+152,2024,TRUE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/205824302,Zamenis lineatus,LC,205824302,Zamenis,lineatus,Global; Europe; Mediterranean
+153,2024,TRUE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/205824302,Zamenis lineatus,LC,205824302,Zamenis,lineatus,Global; Europe; Mediterranean
+154,2009,FALSE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/12505636,Zamenis lineatus,DD,12505636,Zamenis,lineatus,Global; Europe
+155,2009,FALSE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/12505636,Zamenis lineatus,DD,12505636,Zamenis,lineatus,Global; Europe
+156,2006,FALSE,FALSE,FALSE,61595,https://www.iucnredlist.org/species/61595/12505797,Zamenis lineatus,DD,12505797,Zamenis,lineatus,Global
+157,2024,TRUE,FALSE,FALSE,157266,https://www.iucnredlist.org/species/157266/205826427,Zamenis longissimus,LC,205826427,Zamenis,longissimus,Europe
+158,2017,TRUE,FALSE,FALSE,157266,https://www.iucnredlist.org/species/157266/49063773,Zamenis longissimus,LC,49063773,Zamenis,longissimus,Global
+159,2009,FALSE,FALSE,FALSE,157266,https://www.iucnredlist.org/species/157266/5065796,Zamenis longissimus,LC,5065796,Zamenis,longissimus,Europe
+160,2009,FALSE,FALSE,FALSE,157266,https://www.iucnredlist.org/species/157266/5065521,Zamenis longissimus,LC,5065521,Zamenis,longissimus,Global
+161,2024,TRUE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/205825815,Zamenis situla,LC,205825815,Zamenis,situla,Europe
+162,2009,FALSE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12485966,Zamenis situla,LC,12485966,Zamenis,situla,Europe
+163,2009,TRUE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12485786,Zamenis situla,LC,12485786,Zamenis,situla,Global
+164,2006,FALSE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12485625,Zamenis situla,LC,12485625,Zamenis,situla,Global
+165,1996,FALSE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12485764,Zamenis situla,DD,12485764,Zamenis,situla,Global
+166,1996,FALSE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12486157,Zamenis situla,DD,12486157,Zamenis,situla,Global
+167,1994,FALSE,FALSE,FALSE,61444,https://www.iucnredlist.org/species/61444/12486136,Zamenis situla,K,12486136,Zamenis,situla,Global
+168,2024,TRUE,FALSE,FALSE,157257,https://www.iucnredlist.org/species/157257/213192842,Alsophylax pipiens,NA,213192842,Alsophylax,pipiens,Europe
+169,2019,TRUE,FALSE,FALSE,157257,https://www.iucnredlist.org/species/157257/126053396,Alsophylax pipiens,LC,126053396,Alsophylax,pipiens,Global
+170,2017,FALSE,FALSE,FALSE,157257,https://www.iucnredlist.org/species/157257/49094739,Alsophylax pipiens,LC,49094739,Alsophylax,pipiens,Global
+171,2010,FALSE,FALSE,FALSE,157257,https://www.iucnredlist.org/species/157257/5062709,Alsophylax pipiens,LC,5062709,Alsophylax,pipiens,Global
+172,2009,FALSE,FALSE,FALSE,157257,https://www.iucnredlist.org/species/157257/5062597,Alsophylax pipiens,NA,5062597,Alsophylax,pipiens,Europe
+173,2024,TRUE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/207989942,Euleptes europaea,LC,207989942,Euleptes,europaea,Europe
+174,2009,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486680,Euleptes europaea,NT,12486680,Euleptes,europaea,Europe
+175,2009,TRUE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486542,Euleptes europaea,NT,12486542,Euleptes,europaea,Global
+176,2006,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486410,Euleptes europaea,NT,12486410,Euleptes,europaea,Global
+177,1996,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486521,Euleptes europaea,VU,12486521,Euleptes,europaea,Global
+178,1996,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486808,Euleptes europaea,VU,12486808,Euleptes,europaea,Global
+179,1994,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486850,Euleptes europaea,V,12486850,Euleptes,europaea,Global
+180,1990,FALSE,FALSE,FALSE,61446,https://www.iucnredlist.org/species/61446/12486829,Euleptes europaea,R,12486829,Euleptes,europaea,Global
+181,2024,TRUE,FALSE,FALSE,157261,https://www.iucnredlist.org/species/157261/205698798,Hemidactylus turcicus,LC,205698798,Hemidactylus,turcicus,Europe
+182,2009,FALSE,FALSE,FALSE,157261,https://www.iucnredlist.org/species/157261/5064219,Hemidactylus turcicus,LC,5064219,Hemidactylus,turcicus,Europe
+183,2009,TRUE,FALSE,FALSE,157261,https://www.iucnredlist.org/species/157261/5063993,Hemidactylus turcicus,LC,5063993,Hemidactylus,turcicus,Global
+184,2024,TRUE,FALSE,FALSE,61569,https://www.iucnredlist.org/species/61569/207991058,Saurodactylus mauritanicus,NA,207991058,Saurodactylus,mauritanicus,Europe
+185,2009,FALSE,FALSE,FALSE,61569,https://www.iucnredlist.org/species/61569/12517757,Saurodactylus mauritanicus,NA,12517757,Saurodactylus,mauritanicus,Europe
+186,2009,TRUE,FALSE,FALSE,61569,https://www.iucnredlist.org/species/61569/12517583,Saurodactylus mauritanicus,LC,12517583,Saurodactylus,mauritanicus,Global
+187,2006,FALSE,FALSE,FALSE,61569,https://www.iucnredlist.org/species/61569/12517464,Saurodactylus mauritanicus,LC,12517464,Saurodactylus,mauritanicus,Global
+188,2024,TRUE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/137857659,Tarentola angustimentalis,LC,137857659,Tarentola,angustimentalis,Global; Europe
+189,2024,TRUE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/137857659,Tarentola angustimentalis,LC,137857659,Tarentola,angustimentalis,Global; Europe
+190,2009,FALSE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/12518158,Tarentola angustimentalis,LC,12518158,Tarentola,angustimentalis,Global; Europe
+191,2009,FALSE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/12518158,Tarentola angustimentalis,LC,12518158,Tarentola,angustimentalis,Global; Europe
+192,2006,FALSE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/12518259,Tarentola angustimentalis,LC,12518259,Tarentola,angustimentalis,Global; Europe
+193,2006,FALSE,FALSE,FALSE,61572,https://www.iucnredlist.org/species/61572/12518259,Tarentola angustimentalis,LC,12518259,Tarentola,angustimentalis,Global; Europe
+194,2024,TRUE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/137857741,Tarentola boettgeri,LC,137857741,Tarentola,boettgeri,Global; Europe
+195,2024,TRUE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/137857741,Tarentola boettgeri,LC,137857741,Tarentola,boettgeri,Global; Europe
+196,2009,FALSE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/12494311,Tarentola boettgeri,LC,12494311,Tarentola,boettgeri,Global; Europe
+197,2009,FALSE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/12494311,Tarentola boettgeri,LC,12494311,Tarentola,boettgeri,Global; Europe
+198,2006,FALSE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/12494418,Tarentola boettgeri,LC,12494418,Tarentola,boettgeri,Global; Europe
+199,2006,FALSE,FALSE,FALSE,61574,https://www.iucnredlist.org/species/61574/12494418,Tarentola boettgeri,LC,12494418,Tarentola,boettgeri,Global; Europe
+200,2024,TRUE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/137857823,Tarentola delalandii,LC,137857823,Tarentola,delalandii,Global; Europe
+201,2024,TRUE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/137857823,Tarentola delalandii,LC,137857823,Tarentola,delalandii,Global; Europe
+202,2009,FALSE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/12494692,Tarentola delalandii,LC,12494692,Tarentola,delalandii,Global; Europe
+203,2009,FALSE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/12494692,Tarentola delalandii,LC,12494692,Tarentola,delalandii,Global; Europe
+204,2006,FALSE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/12494797,Tarentola delalandii,LC,12494797,Tarentola,delalandii,Global; Europe
+205,2006,FALSE,FALSE,FALSE,61575,https://www.iucnredlist.org/species/61575/12494797,Tarentola delalandii,LC,12494797,Tarentola,delalandii,Global; Europe
+206,2024,TRUE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/137857989,Tarentola gomerensis,LC,137857989,Tarentola,gomerensis,Global; Europe
+207,2024,TRUE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/137857989,Tarentola gomerensis,LC,137857989,Tarentola,gomerensis,Global; Europe
+208,2009,FALSE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/12495165,Tarentola gomerensis,LC,12495165,Tarentola,gomerensis,Global; Europe
+209,2009,FALSE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/12495165,Tarentola gomerensis,LC,12495165,Tarentola,gomerensis,Global; Europe
+210,2006,FALSE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/12495268,Tarentola gomerensis,LC,12495268,Tarentola,gomerensis,Global; Europe
+211,2006,FALSE,FALSE,FALSE,61577,https://www.iucnredlist.org/species/61577/12495268,Tarentola gomerensis,LC,12495268,Tarentola,gomerensis,Global; Europe
+212,2024,TRUE,FALSE,FALSE,61578,https://www.iucnredlist.org/species/61578/207660692,Tarentola mauritanica,LC,207660692,Tarentola,mauritanica,Europe
+213,2017,TRUE,FALSE,FALSE,61578,https://www.iucnredlist.org/species/61578/63716927,Tarentola mauritanica,LC,63716927,Tarentola,mauritanica,Global
+214,2009,FALSE,FALSE,FALSE,61578,https://www.iucnredlist.org/species/61578/12496350,Tarentola mauritanica,LC,12496350,Tarentola,mauritanica,Europe
+215,2009,FALSE,FALSE,FALSE,61578,https://www.iucnredlist.org/species/61578/12496137,Tarentola mauritanica,LC,12496137,Tarentola,mauritanica,Global
+216,2006,FALSE,FALSE,FALSE,61578,https://www.iucnredlist.org/species/61578/12495955,Tarentola mauritanica,LC,12495955,Tarentola,mauritanica,Global
+217,2024,TRUE,FALSE,FALSE,61456,https://www.iucnredlist.org/species/61456/207646900,Acanthodactylus erythrurus,LC,207646900,Acanthodactylus,erythrurus,Europe
+218,2009,FALSE,FALSE,FALSE,61456,https://www.iucnredlist.org/species/61456/12470645,Acanthodactylus erythrurus,LC,12470645,Acanthodactylus,erythrurus,Europe
+219,2009,TRUE,FALSE,FALSE,61456,https://www.iucnredlist.org/species/61456/12470495,Acanthodactylus erythrurus,LC,12470495,Acanthodactylus,erythrurus,Global
+220,2006,FALSE,FALSE,FALSE,61456,https://www.iucnredlist.org/species/61456/12470373,Acanthodactylus erythrurus,LC,12470373,Acanthodactylus,erythrurus,Global
+221,2024,TRUE,FALSE,FALSE,222350753,https://www.iucnredlist.org/species/222350753/207990075,Acanthodactylus schreiberi,LC,207990075,Acanthodactylus,schreiberi,Global; Europe; Mediterranean
+222,2024,TRUE,FALSE,FALSE,222350753,https://www.iucnredlist.org/species/222350753/207990075,Acanthodactylus schreiberi,LC,207990075,Acanthodactylus,schreiberi,Global; Europe; Mediterranean
+223,2024,TRUE,FALSE,FALSE,222350753,https://www.iucnredlist.org/species/222350753/207990075,Acanthodactylus schreiberi,LC,207990075,Acanthodactylus,schreiberi,Global; Europe; Mediterranean
+224,2024,TRUE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/137846377,Algyroides fitzingeri,LC,137846377,Algyroides,fitzingeri,Global; Europe; Mediterranean
+225,2024,TRUE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/137846377,Algyroides fitzingeri,LC,137846377,Algyroides,fitzingeri,Global; Europe; Mediterranean
+226,2024,TRUE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/137846377,Algyroides fitzingeri,LC,137846377,Algyroides,fitzingeri,Global; Europe; Mediterranean
+227,2009,FALSE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/12489532,Algyroides fitzingeri,LC,12489532,Algyroides,fitzingeri,Global; Europe
+228,2009,FALSE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/12489532,Algyroides fitzingeri,LC,12489532,Algyroides,fitzingeri,Global; Europe
+229,2006,FALSE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/12489658,Algyroides fitzingeri,LC,12489658,Algyroides,fitzingeri,Global; Europe
+230,2006,FALSE,FALSE,FALSE,61464,https://www.iucnredlist.org/species/61464/12489658,Algyroides fitzingeri,LC,12489658,Algyroides,fitzingeri,Global; Europe
+231,2024,TRUE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/137842545,Algyroides marchi,EN,137842545,Algyroides,marchi,Global; Europe; Mediterranean
+232,2024,TRUE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/137842545,Algyroides marchi,EN,137842545,Algyroides,marchi,Global; Europe; Mediterranean
+233,2024,TRUE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/137842545,Algyroides marchi,EN,137842545,Algyroides,marchi,Global; Europe; Mediterranean
+234,2009,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13082975,Algyroides marchi,EN,13082975,Algyroides,marchi,Global; Europe
+235,2009,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13082975,Algyroides marchi,EN,13082975,Algyroides,marchi,Global; Europe
+236,2006,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13083101,Algyroides marchi,EN,13083101,Algyroides,marchi,Global; Europe
+237,2006,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13083101,Algyroides marchi,EN,13083101,Algyroides,marchi,Global; Europe
+238,1996,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13082954,Algyroides marchi,VU,13082954,Algyroides,marchi,Global; Europe
+239,1996,FALSE,FALSE,FALSE,840,https://www.iucnredlist.org/species/840/13082954,Algyroides marchi,VU,13082954,Algyroides,marchi,Global; Europe
+240,2024,TRUE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/137846475,Algyroides moreoticus,LC,137846475,Algyroides,moreoticus,Global; Europe; Mediterranean
+241,2024,TRUE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/137846475,Algyroides moreoticus,LC,137846475,Algyroides,moreoticus,Global; Europe; Mediterranean
+242,2024,TRUE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/137846475,Algyroides moreoticus,LC,137846475,Algyroides,moreoticus,Global; Europe; Mediterranean
+243,2009,FALSE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/12489765,Algyroides moreoticus,NT,12489765,Algyroides,moreoticus,Global; Europe
+244,2009,FALSE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/12489765,Algyroides moreoticus,NT,12489765,Algyroides,moreoticus,Global; Europe
+245,2006,FALSE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/12489903,Algyroides moreoticus,NT,12489903,Algyroides,moreoticus,Global; Europe
+246,2006,FALSE,FALSE,FALSE,61465,https://www.iucnredlist.org/species/61465/12489903,Algyroides moreoticus,NT,12489903,Algyroides,moreoticus,Global; Europe
+247,2024,TRUE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/137846576,Algyroides nigropunctatus,LC,137846576,Algyroides,nigropunctatus,Global; Europe
+248,2024,TRUE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/137846576,Algyroides nigropunctatus,LC,137846576,Algyroides,nigropunctatus,Global; Europe
+249,2009,FALSE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/12490013,Algyroides nigropunctatus,LC,12490013,Algyroides,nigropunctatus,Global; Europe
+250,2009,FALSE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/12490013,Algyroides nigropunctatus,LC,12490013,Algyroides,nigropunctatus,Global; Europe
+251,2006,FALSE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/12490202,Algyroides nigropunctatus,LC,12490202,Algyroides,nigropunctatus,Global; Europe
+252,2006,FALSE,FALSE,FALSE,61466,https://www.iucnredlist.org/species/61466/12490202,Algyroides nigropunctatus,LC,12490202,Algyroides,nigropunctatus,Global; Europe
+253,2024,TRUE,FALSE,FALSE,210079094,https://www.iucnredlist.org/species/210079094/137852072,Anatololacerta anatolica,LC,137852072,Anatololacerta,anatolica,Global
+254,2024,TRUE,FALSE,FALSE,210079094,https://www.iucnredlist.org/species/210079094/200125217,Anatololacerta anatolica,NT,200125217,Anatololacerta,anatolica,Europe
+255,2024,TRUE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/137846813,Archaeolacerta bedriagae,NT,137846813,Archaeolacerta,bedriagae,Global; Europe; Mediterranean
+256,2024,TRUE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/137846813,Archaeolacerta bedriagae,NT,137846813,Archaeolacerta,bedriagae,Global; Europe; Mediterranean
+257,2024,TRUE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/137846813,Archaeolacerta bedriagae,NT,137846813,Archaeolacerta,bedriagae,Global; Europe; Mediterranean
+258,2009,FALSE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/12490617,Archaeolacerta bedriagae,NT,12490617,Archaeolacerta,bedriagae,Global; Europe
+259,2009,FALSE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/12490617,Archaeolacerta bedriagae,NT,12490617,Archaeolacerta,bedriagae,Global; Europe
+260,2006,FALSE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/12490758,Archaeolacerta bedriagae,VU,12490758,Archaeolacerta,bedriagae,Global; Europe
+261,2006,FALSE,FALSE,FALSE,61468,https://www.iucnredlist.org/species/61468/12490758,Archaeolacerta bedriagae,VU,12490758,Archaeolacerta,bedriagae,Global; Europe
+262,2024,TRUE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/137852805,Dalmatolacerta oxycephala,LC,137852805,Dalmatolacerta,oxycephala,Global; Europe
+263,2024,TRUE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/137852805,Dalmatolacerta oxycephala,LC,137852805,Dalmatolacerta,oxycephala,Global; Europe
+264,2009,FALSE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/12505349,Dalmatolacerta oxycephala,LC,12505349,Dalmatolacerta,oxycephala,Global; Europe
+265,2009,FALSE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/12505349,Dalmatolacerta oxycephala,LC,12505349,Dalmatolacerta,oxycephala,Global; Europe
+266,2006,FALSE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/12505503,Dalmatolacerta oxycephala,LC,12505503,Dalmatolacerta,oxycephala,Global; Europe
+267,2006,FALSE,FALSE,FALSE,61528,https://www.iucnredlist.org/species/61528/12505503,Dalmatolacerta oxycephala,LC,12505503,Dalmatolacerta,oxycephala,Global; Europe
+268,2024,TRUE,FALSE,FALSE,157245,https://www.iucnredlist.org/species/157245/207648737,Darevskia praticola,NT,207648737,Darevskia,praticola,Europe
+269,2009,FALSE,FALSE,FALSE,157245,https://www.iucnredlist.org/species/157245/5059081,Darevskia praticola,NT,5059081,Darevskia,praticola,Europe
+270,2009,TRUE,FALSE,FALSE,157245,https://www.iucnredlist.org/species/157245/5058913,Darevskia praticola,NT,5058913,Darevskia,praticola,Global
+271,2024,TRUE,FALSE,FALSE,196002,https://www.iucnredlist.org/species/196002/2441186,Dinarolacerta mosorensis,NT,2441186,Dinarolacerta,mosorensis,Global; Europe
+272,2024,TRUE,FALSE,FALSE,196002,https://www.iucnredlist.org/species/196002/2441186,Dinarolacerta mosorensis,NT,2441186,Dinarolacerta,mosorensis,Global; Europe
+273,2024,TRUE,FALSE,FALSE,157260,https://www.iucnredlist.org/species/157260/215068095,Eremias arguta,LC,215068095,Eremias,arguta,Europe
+274,2019,TRUE,FALSE,FALSE,157260,https://www.iucnredlist.org/species/157260/745511,Eremias arguta,LC,745511,Eremias,arguta,Global
+275,2009,FALSE,FALSE,FALSE,157260,https://www.iucnredlist.org/species/157260/5063725,Eremias arguta,NT,5063725,Eremias,arguta,Europe
+276,2024,TRUE,FALSE,FALSE,157286,https://www.iucnredlist.org/species/157286/207994494,Eremias velox,VU,207994494,Eremias,velox,Europe
+277,2019,TRUE,FALSE,FALSE,157286,https://www.iucnredlist.org/species/157286/749469,Eremias velox,LC,749469,Eremias,velox,Global
+278,2009,FALSE,FALSE,FALSE,157286,https://www.iucnredlist.org/species/157286/5070559,Eremias velox,LC,5070559,Eremias,velox,Europe
+279,2024,TRUE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/137850299,Gallotia atlantica,LC,137850299,Gallotia,atlantica,Global; Europe
+280,2024,TRUE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/137850299,Gallotia atlantica,LC,137850299,Gallotia,atlantica,Global; Europe
+281,2009,FALSE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/12492064,Gallotia atlantica,LC,12492064,Gallotia,atlantica,Global; Europe
+282,2009,FALSE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/12492064,Gallotia atlantica,LC,12492064,Gallotia,atlantica,Global; Europe
+283,2006,FALSE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/12492167,Gallotia atlantica,LC,12492167,Gallotia,atlantica,Global; Europe
+284,2006,FALSE,FALSE,FALSE,61500,https://www.iucnredlist.org/species/61500/12492167,Gallotia atlantica,LC,12492167,Gallotia,atlantica,Global; Europe
+285,2024,TRUE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/269974196,Gallotia bravoana,EN,269974196,Gallotia,bravoana,Global; Europe
+286,2024,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/137850527,Gallotia bravoana,EN,137850527,Gallotia,bravoana,Global; Europe
+287,2024,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/137850527,Gallotia bravoana,EN,137850527,Gallotia,bravoana,Global; Europe
+288,2024,TRUE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/269974196,Gallotia bravoana,EN,269974196,Gallotia,bravoana,Global; Europe
+289,2009,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/12493034,Gallotia bravoana,CR,12493034,Gallotia,bravoana,Global; Europe
+290,2009,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/12493034,Gallotia bravoana,CR,12493034,Gallotia,bravoana,Global; Europe
+291,2006,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/12493219,Gallotia bravoana,CR,12493219,Gallotia,bravoana,Global; Europe
+292,2006,FALSE,FALSE,FALSE,61502,https://www.iucnredlist.org/species/61502/12493219,Gallotia bravoana,CR,12493219,Gallotia,bravoana,Global; Europe
+293,2024,TRUE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/137850681,Gallotia caesaris,LC,137850681,Gallotia,caesaris,Global; Europe
+294,2024,TRUE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/137850681,Gallotia caesaris,LC,137850681,Gallotia,caesaris,Global; Europe
+295,2009,FALSE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/12493473,Gallotia caesaris,LC,12493473,Gallotia,caesaris,Global; Europe
+296,2009,FALSE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/12493473,Gallotia caesaris,LC,12493473,Gallotia,caesaris,Global; Europe
+297,2006,FALSE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/12493589,Gallotia caesaris,LC,12493589,Gallotia,caesaris,Global; Europe
+298,2006,FALSE,FALSE,FALSE,61503,https://www.iucnredlist.org/species/61503/12493589,Gallotia caesaris,LC,12493589,Gallotia,caesaris,Global; Europe
+299,2024,TRUE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/137850765,Gallotia galloti,LC,137850765,Gallotia,galloti,Global; Europe
+300,2024,TRUE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/137850765,Gallotia galloti,LC,137850765,Gallotia,galloti,Global; Europe
+301,2009,FALSE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/12493747,Gallotia galloti,LC,12493747,Gallotia,galloti,Global; Europe
+302,2009,FALSE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/12493747,Gallotia galloti,LC,12493747,Gallotia,galloti,Global; Europe
+303,2006,FALSE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/12493853,Gallotia galloti,LC,12493853,Gallotia,galloti,Global; Europe
+304,2006,FALSE,FALSE,FALSE,61504,https://www.iucnredlist.org/species/61504/12493853,Gallotia galloti,LC,12493853,Gallotia,galloti,Global; Europe
+305,2024,TRUE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/207650471,Gallotia intermedia,EN,207650471,Gallotia,intermedia,Global; Europe
+306,2024,TRUE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/207650471,Gallotia intermedia,EN,207650471,Gallotia,intermedia,Global; Europe
+307,2009,FALSE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/12494026,Gallotia intermedia,CR,12494026,Gallotia,intermedia,Global; Europe
+308,2009,FALSE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/12494026,Gallotia intermedia,CR,12494026,Gallotia,intermedia,Global; Europe
+309,2006,FALSE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/12494174,Gallotia intermedia,CR,12494174,Gallotia,intermedia,Global; Europe
+310,2006,FALSE,FALSE,FALSE,61505,https://www.iucnredlist.org/species/61505/12494174,Gallotia intermedia,CR,12494174,Gallotia,intermedia,Global; Europe
+311,2024,TRUE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/137842652,Gallotia simonyi,VU,137842652,Gallotia,simonyi,Global; Europe
+312,2024,TRUE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/137842652,Gallotia simonyi,VU,137842652,Gallotia,simonyi,Global; Europe
+313,2009,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935900,Gallotia simonyi,CR,12935900,Gallotia,simonyi,Global; Europe
+314,2009,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935900,Gallotia simonyi,CR,12935900,Gallotia,simonyi,Global; Europe
+315,2006,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936071,Gallotia simonyi,CR,12936071,Gallotia,simonyi,Global; Europe
+316,2006,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936071,Gallotia simonyi,CR,12936071,Gallotia,simonyi,Global; Europe
+317,1996,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935858,Gallotia simonyi,CR,12935858,Gallotia,simonyi,Global; Europe
+318,1996,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935858,Gallotia simonyi,CR,12935858,Gallotia,simonyi,Global; Europe
+319,1994,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936243,Gallotia simonyi,E,12936243,Gallotia,simonyi,Global; Europe
+320,1994,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936243,Gallotia simonyi,E,12936243,Gallotia,simonyi,Global; Europe
+321,1990,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935881,Gallotia simonyi,E,12935881,Gallotia,simonyi,Global; Europe
+322,1990,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12935881,Gallotia simonyi,E,12935881,Gallotia,simonyi,Global; Europe
+323,1988,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936224,Gallotia simonyi,E,12936224,Gallotia,simonyi,Global; Europe
+324,1988,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936224,Gallotia simonyi,E,12936224,Gallotia,simonyi,Global; Europe
+325,1986,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936262,Gallotia simonyi,E,12936262,Gallotia,simonyi,Global; Europe
+326,1986,FALSE,FALSE,FALSE,8881,https://www.iucnredlist.org/species/8881/12936262,Gallotia simonyi,E,12936262,Gallotia,simonyi,Global; Europe
+327,2024,TRUE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/137850850,Gallotia stehlini,CR,137850850,Gallotia,stehlini,Global; Europe
+328,2024,TRUE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/137850850,Gallotia stehlini,CR,137850850,Gallotia,stehlini,Global; Europe
+329,2009,FALSE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/12494509,Gallotia stehlini,LC,12494509,Gallotia,stehlini,Global; Europe
+330,2009,FALSE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/12494509,Gallotia stehlini,LC,12494509,Gallotia,stehlini,Global; Europe
+331,2006,FALSE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/12494608,Gallotia stehlini,LC,12494608,Gallotia,stehlini,Global; Europe
+332,2006,FALSE,FALSE,FALSE,61506,https://www.iucnredlist.org/species/61506/12494608,Gallotia stehlini,LC,12494608,Gallotia,stehlini,Global; Europe
+333,2024,TRUE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/137852588,Hellenolacerta graeca,LC,137852588,Hellenolacerta,graeca,Global; Europe; Mediterranean
+334,2024,TRUE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/137852588,Hellenolacerta graeca,LC,137852588,Hellenolacerta,graeca,Global; Europe; Mediterranean
+335,2024,TRUE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/137852588,Hellenolacerta graeca,LC,137852588,Hellenolacerta,graeca,Global; Europe; Mediterranean
+336,2009,FALSE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/12502676,Hellenolacerta graeca,NT,12502676,Hellenolacerta,graeca,Global; Europe
+337,2009,FALSE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/12502676,Hellenolacerta graeca,NT,12502676,Hellenolacerta,graeca,Global; Europe
+338,2006,FALSE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/12502822,Hellenolacerta graeca,NT,12502822,Hellenolacerta,graeca,Global; Europe
+339,2006,FALSE,FALSE,FALSE,61523,https://www.iucnredlist.org/species/61523/12502822,Hellenolacerta graeca,NT,12502822,Hellenolacerta,graeca,Global; Europe
+340,2024,TRUE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/137851481,Iberolacerta aranica,NT,137851481,Iberolacerta,aranica,Global; Europe
+341,2024,TRUE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/137851481,Iberolacerta aranica,NT,137851481,Iberolacerta,aranica,Global; Europe
+342,2009,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/12497171,Iberolacerta aranica,EN,12497171,Iberolacerta,aranica,Global; Europe
+343,2009,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/84674971,Iberolacerta aranica,EN,84674971,Iberolacerta,aranica,Global; Europe
+344,2009,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/84674971,Iberolacerta aranica,EN,84674971,Iberolacerta,aranica,Global; Europe
+345,2009,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/12497171,Iberolacerta aranica,EN,12497171,Iberolacerta,aranica,Global; Europe
+346,2006,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/12497373,Iberolacerta aranica,CR,12497373,Iberolacerta,aranica,Global; Europe
+347,2006,FALSE,FALSE,FALSE,61512,https://www.iucnredlist.org/species/61512/12497373,Iberolacerta aranica,CR,12497373,Iberolacerta,aranica,Global; Europe
+348,2024,TRUE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/137851611,Iberolacerta aurelioi,EN,137851611,Iberolacerta,aurelioi,Global; Europe
+349,2024,TRUE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/137851611,Iberolacerta aurelioi,EN,137851611,Iberolacerta,aurelioi,Global; Europe
+350,2009,FALSE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/12497596,Iberolacerta aurelioi,EN,12497596,Iberolacerta,aurelioi,Global; Europe
+351,2009,FALSE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/12497596,Iberolacerta aurelioi,EN,12497596,Iberolacerta,aurelioi,Global; Europe
+352,2006,FALSE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/12497789,Iberolacerta aurelioi,EN,12497789,Iberolacerta,aurelioi,Global; Europe
+353,2006,FALSE,FALSE,FALSE,61513,https://www.iucnredlist.org/species/61513/12497789,Iberolacerta aurelioi,EN,12497789,Iberolacerta,aurelioi,Global; Europe
+354,2024,TRUE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/137844814,Iberolacerta bonnali,NT,137844814,Iberolacerta,bonnali,Global; Europe
+355,2024,TRUE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/137844814,Iberolacerta bonnali,NT,137844814,Iberolacerta,bonnali,Global; Europe
+356,2009,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486917,Iberolacerta bonnali,NT,12486917,Iberolacerta,bonnali,Global; Europe
+357,2009,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486917,Iberolacerta bonnali,NT,12486917,Iberolacerta,bonnali,Global; Europe
+358,2006,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12487095,Iberolacerta bonnali,NT,12487095,Iberolacerta,bonnali,Global; Europe
+359,2006,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12487095,Iberolacerta bonnali,NT,12487095,Iberolacerta,bonnali,Global; Europe
+360,1996,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486875,Iberolacerta bonnali,VU,12486875,Iberolacerta,bonnali,Global; Europe
+361,1996,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486875,Iberolacerta bonnali,VU,12486875,Iberolacerta,bonnali,Global; Europe
+362,1996,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486896,Iberolacerta bonnali,VU,12486896,Iberolacerta,bonnali,Global; Europe
+363,1996,FALSE,FALSE,FALSE,61447,https://www.iucnredlist.org/species/61447/12486896,Iberolacerta bonnali,VU,12486896,Iberolacerta,bonnali,Global; Europe
+364,2024,TRUE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/137851751,Iberolacerta cyreni,LC,137851751,Iberolacerta,cyreni,Global; Europe; Mediterranean
+365,2024,TRUE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/137851751,Iberolacerta cyreni,LC,137851751,Iberolacerta,cyreni,Global; Europe; Mediterranean
+366,2024,TRUE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/137851751,Iberolacerta cyreni,LC,137851751,Iberolacerta,cyreni,Global; Europe; Mediterranean
+367,2009,FALSE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/12498292,Iberolacerta cyreni,EN,12498292,Iberolacerta,cyreni,Global; Europe
+368,2009,FALSE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/12498292,Iberolacerta cyreni,EN,12498292,Iberolacerta,cyreni,Global; Europe
+369,2006,FALSE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/12498457,Iberolacerta cyreni,EN,12498457,Iberolacerta,cyreni,Global; Europe
+370,2006,FALSE,FALSE,FALSE,61514,https://www.iucnredlist.org/species/61514/12498457,Iberolacerta cyreni,EN,12498457,Iberolacerta,cyreni,Global; Europe
+371,2024,TRUE,FALSE,FALSE,157271,https://www.iucnredlist.org/species/157271/207651727,Iberolacerta galani,NT,207651727,Iberolacerta,galani,Global; Europe; Mediterranean
+372,2024,TRUE,FALSE,FALSE,157271,https://www.iucnredlist.org/species/157271/207651727,Iberolacerta galani,NT,207651727,Iberolacerta,galani,Global; Europe; Mediterranean
+373,2024,TRUE,FALSE,FALSE,157271,https://www.iucnredlist.org/species/157271/207651727,Iberolacerta galani,NT,207651727,Iberolacerta,galani,Global; Europe; Mediterranean
+374,2009,FALSE,FALSE,FALSE,157271,https://www.iucnredlist.org/species/157271/5066930,Iberolacerta galani,NT,5066930,Iberolacerta,galani,Global; Europe
+375,2009,FALSE,FALSE,FALSE,157271,https://www.iucnredlist.org/species/157271/5066930,Iberolacerta galani,NT,5066930,Iberolacerta,galani,Global; Europe
+376,2024,TRUE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/137851859,Iberolacerta horvathi,LC,137851859,Iberolacerta,horvathi,Global; Europe
+377,2024,TRUE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/137851859,Iberolacerta horvathi,LC,137851859,Iberolacerta,horvathi,Global; Europe
+378,2009,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/12498717,Iberolacerta horvathi,NT,12498717,Iberolacerta,horvathi,Global; Europe
+379,2009,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/87533181,Iberolacerta horvathi,NT,87533181,Iberolacerta,horvathi,Global; Europe
+380,2009,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/87533181,Iberolacerta horvathi,NT,87533181,Iberolacerta,horvathi,Global; Europe
+381,2009,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/12498717,Iberolacerta horvathi,NT,12498717,Iberolacerta,horvathi,Global; Europe
+382,2006,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/12498843,Iberolacerta horvathi,NT,12498843,Iberolacerta,horvathi,Global; Europe
+383,2006,FALSE,FALSE,FALSE,61515,https://www.iucnredlist.org/species/61515/12498843,Iberolacerta horvathi,NT,12498843,Iberolacerta,horvathi,Global; Europe
+384,2024,TRUE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/137851947,Iberolacerta martinezricai,EN,137851947,Iberolacerta,martinezricai,Global; Europe; Mediterranean
+385,2024,TRUE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/137851947,Iberolacerta martinezricai,EN,137851947,Iberolacerta,martinezricai,Global; Europe; Mediterranean
+386,2024,TRUE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/137851947,Iberolacerta martinezricai,EN,137851947,Iberolacerta,martinezricai,Global; Europe; Mediterranean
+387,2009,FALSE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/12499291,Iberolacerta martinezricai,CR,12499291,Iberolacerta,martinezricai,Global; Europe
+388,2009,FALSE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/12499291,Iberolacerta martinezricai,CR,12499291,Iberolacerta,martinezricai,Global; Europe
+389,2006,FALSE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/12499472,Iberolacerta martinezricai,CR,12499472,Iberolacerta,martinezricai,Global; Europe
+390,2006,FALSE,FALSE,FALSE,61516,https://www.iucnredlist.org/species/61516/12499472,Iberolacerta martinezricai,CR,12499472,Iberolacerta,martinezricai,Global; Europe
+391,2024,TRUE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/207652191,Iberolacerta monticola,LC,207652191,Iberolacerta,monticola,Global; Europe
+392,2024,TRUE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/207652191,Iberolacerta monticola,LC,207652191,Iberolacerta,monticola,Global; Europe
+393,2009,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487278,Iberolacerta monticola,VU,12487278,Iberolacerta,monticola,Global; Europe
+394,2009,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487278,Iberolacerta monticola,VU,12487278,Iberolacerta,monticola,Global; Europe
+395,2006,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487421,Iberolacerta monticola,VU,12487421,Iberolacerta,monticola,Global; Europe
+396,2006,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487421,Iberolacerta monticola,VU,12487421,Iberolacerta,monticola,Global; Europe
+397,1996,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487233,Iberolacerta monticola,LR/lc,12487233,Iberolacerta,monticola,Global; Europe
+398,1996,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487233,Iberolacerta monticola,LR/lc,12487233,Iberolacerta,monticola,Global; Europe
+399,1996,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487555,Iberolacerta monticola,LR/lc,12487555,Iberolacerta,monticola,Global; Europe
+400,1996,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487555,Iberolacerta monticola,LR/lc,12487555,Iberolacerta,monticola,Global; Europe
+401,1994,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487257,Iberolacerta monticola,K,12487257,Iberolacerta,monticola,Global; Europe
+402,1994,FALSE,FALSE,FALSE,61448,https://www.iucnredlist.org/species/61448/12487257,Iberolacerta monticola,K,12487257,Iberolacerta,monticola,Global; Europe
+403,2024,TRUE,FALSE,FALSE,157288,https://www.iucnredlist.org/species/157288/207994671,Lacerta agilis,LC,207994671,Lacerta,agilis,Europe
+404,2021,TRUE,FALSE,FALSE,157288,https://www.iucnredlist.org/species/157288/49644624,Lacerta agilis,LC,49644624,Lacerta,agilis,Global
+405,2010,FALSE,FALSE,FALSE,157288,https://www.iucnredlist.org/species/157288/5071439,Lacerta agilis,LC,5071439,Lacerta,agilis,Global
+406,2009,FALSE,FALSE,FALSE,157288,https://www.iucnredlist.org/species/157288/5071064,Lacerta agilis,LC,5071064,Lacerta,agilis,Europe
+407,2024,TRUE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/137852254,Lacerta bilineata,LC,137852254,Lacerta,bilineata,Global; Europe
+408,2024,TRUE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/137852254,Lacerta bilineata,LC,137852254,Lacerta,bilineata,Global; Europe
+409,2009,FALSE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/12501065,Lacerta bilineata,LC,12501065,Lacerta,bilineata,Global; Europe
+410,2009,FALSE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/12501065,Lacerta bilineata,LC,12501065,Lacerta,bilineata,Global; Europe
+411,2006,FALSE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/12501237,Lacerta bilineata,LC,12501237,Lacerta,bilineata,Global; Europe
+412,2006,FALSE,FALSE,FALSE,61519,https://www.iucnredlist.org/species/61519/12501237,Lacerta bilineata,LC,12501237,Lacerta,bilineata,Global; Europe
+413,2024,TRUE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/137842792,Lacerta schreiberi,LC,137842792,Lacerta,schreiberi,Global; Europe
+414,2024,TRUE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/137842792,Lacerta schreiberi,LC,137842792,Lacerta,schreiberi,Global; Europe
+415,2009,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251580,Lacerta schreiberi,NT,3251580,Lacerta,schreiberi,Global; Europe
+416,2009,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251580,Lacerta schreiberi,NT,3251580,Lacerta,schreiberi,Global; Europe
+417,2006,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251702,Lacerta schreiberi,NT,3251702,Lacerta,schreiberi,Global; Europe
+418,2006,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251702,Lacerta schreiberi,NT,3251702,Lacerta,schreiberi,Global; Europe
+419,1996,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251539,Lacerta schreiberi,LR/nt,3251539,Lacerta,schreiberi,Global; Europe
+420,1996,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251539,Lacerta schreiberi,LR/nt,3251539,Lacerta,schreiberi,Global; Europe
+421,1994,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251561,Lacerta schreiberi,K,3251561,Lacerta,schreiberi,Global; Europe
+422,1994,FALSE,FALSE,FALSE,11113,https://www.iucnredlist.org/species/11113/3251561,Lacerta schreiberi,K,3251561,Lacerta,schreiberi,Global; Europe
+423,2024,TRUE,FALSE,FALSE,157287,https://www.iucnredlist.org/species/157287/207652956,Lacerta strigata,NA,207652956,Lacerta,strigata,Europe
+424,2009,FALSE,FALSE,FALSE,157287,https://www.iucnredlist.org/species/157287/5070893,Lacerta strigata,LC,5070893,Lacerta,strigata,Europe
+425,2009,FALSE,FALSE,FALSE,157287,https://www.iucnredlist.org/species/157287/5070727,Lacerta strigata,LC,5070727,Lacerta,strigata,Global
+426,2009,TRUE,FALSE,FALSE,157287,https://www.iucnredlist.org/species/157287/114558813,Lacerta strigata,LC,114558813,Lacerta,strigata,Global
+427,2024,TRUE,FALSE,FALSE,216864496,https://www.iucnredlist.org/species/216864496/207990400,Lacerta trilineata,LC,207990400,Lacerta,trilineata,Global; Europe
+428,2024,TRUE,FALSE,FALSE,216864496,https://www.iucnredlist.org/species/216864496/207990400,Lacerta trilineata,LC,207990400,Lacerta,trilineata,Global; Europe
+429,2024,TRUE,FALSE,FALSE,61530,https://www.iucnredlist.org/species/61530/207990559,Lacerta viridis,LC,207990559,Lacerta,viridis,Europe
+430,2009,FALSE,FALSE,FALSE,61530,https://www.iucnredlist.org/species/61530/12507366,Lacerta viridis,LC,12507366,Lacerta,viridis,Europe
+431,2009,TRUE,FALSE,FALSE,61530,https://www.iucnredlist.org/species/61530/12507156,Lacerta viridis,LC,12507156,Lacerta,viridis,Global
+432,2006,FALSE,FALSE,FALSE,61530,https://www.iucnredlist.org/species/61530/12506972,Lacerta viridis,LC,12506972,Lacerta,viridis,Global
+433,2024,TRUE,FALSE,FALSE,157279,https://www.iucnredlist.org/species/157279/204874584,Ophisops elegans,LC,204874584,Ophisops,elegans,Europe
+434,2009,FALSE,FALSE,FALSE,157279,https://www.iucnredlist.org/species/157279/5068693,Ophisops elegans,LC,5068693,Ophisops,elegans,Europe
+435,2021,TRUE,FALSE,FALSE,157279,https://www.iucnredlist.org/species/157279/748060,Ophisops elegans,LC,748060,Ophisops,elegans,Global
+436,2024,TRUE,FALSE,FALSE,157276,https://www.iucnredlist.org/species/157276/207653823,Phoenicolacerta troodica,LC,207653823,Phoenicolacerta,troodica,Global; Europe; Mediterranean
+437,2024,TRUE,FALSE,FALSE,157276,https://www.iucnredlist.org/species/157276/207653823,Phoenicolacerta troodica,LC,207653823,Phoenicolacerta,troodica,Global; Europe; Mediterranean
+438,2024,TRUE,FALSE,FALSE,157276,https://www.iucnredlist.org/species/157276/207653823,Phoenicolacerta troodica,LC,207653823,Phoenicolacerta,troodica,Global; Europe; Mediterranean
+439,2009,FALSE,FALSE,FALSE,157276,https://www.iucnredlist.org/species/157276/5067952,Phoenicolacerta troodica,LC,5067952,Phoenicolacerta,troodica,Global; Europe
+440,2009,FALSE,FALSE,FALSE,157276,https://www.iucnredlist.org/species/157276/5067952,Phoenicolacerta troodica,LC,5067952,Phoenicolacerta,troodica,Global; Europe
+441,2024,TRUE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/137854953,Podarcis bocagei,LC,137854953,Podarcis,bocagei,Global; Europe
+442,2024,TRUE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/137854953,Podarcis bocagei,LC,137854953,Podarcis,bocagei,Global; Europe
+443,2009,FALSE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/12512257,Podarcis bocagei,LC,12512257,Podarcis,bocagei,Global; Europe
+444,2009,FALSE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/12512257,Podarcis bocagei,LC,12512257,Podarcis,bocagei,Global; Europe
+445,2006,FALSE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/12512383,Podarcis bocagei,LC,12512383,Podarcis,bocagei,Global; Europe
+446,2006,FALSE,FALSE,FALSE,61544,https://www.iucnredlist.org/species/61544/12512383,Podarcis bocagei,LC,12512383,Podarcis,bocagei,Global; Europe
+447,2024,TRUE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/137855053,Podarcis carbonelli,VU,137855053,Podarcis,carbonelli,Global; Europe
+448,2024,TRUE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/137855053,Podarcis carbonelli,VU,137855053,Podarcis,carbonelli,Global; Europe
+449,2009,FALSE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/12512496,Podarcis carbonelli,EN,12512496,Podarcis,carbonelli,Global; Europe
+450,2009,FALSE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/12512496,Podarcis carbonelli,EN,12512496,Podarcis,carbonelli,Global; Europe
+451,2006,FALSE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/12512652,Podarcis carbonelli,EN,12512652,Podarcis,carbonelli,Global; Europe
+452,2006,FALSE,FALSE,FALSE,61545,https://www.iucnredlist.org/species/61545/12512652,Podarcis carbonelli,EN,12512652,Podarcis,carbonelli,Global; Europe
+453,2024,TRUE,FALSE,FALSE,157252,https://www.iucnredlist.org/species/157252/207654264,Podarcis cretensis,LC,207654264,Podarcis,cretensis,Global; Europe; Mediterranean
+454,2024,TRUE,FALSE,FALSE,157252,https://www.iucnredlist.org/species/157252/207654264,Podarcis cretensis,LC,207654264,Podarcis,cretensis,Global; Europe; Mediterranean
+455,2024,TRUE,FALSE,FALSE,157252,https://www.iucnredlist.org/species/157252/207654264,Podarcis cretensis,LC,207654264,Podarcis,cretensis,Global; Europe; Mediterranean
+456,2009,FALSE,FALSE,FALSE,157252,https://www.iucnredlist.org/species/157252/5060934,Podarcis cretensis,EN,5060934,Podarcis,cretensis,Global; Europe
+457,2009,FALSE,FALSE,FALSE,157252,https://www.iucnredlist.org/species/157252/5060934,Podarcis cretensis,EN,5060934,Podarcis,cretensis,Global; Europe
+458,2024,TRUE,FALSE,FALSE,207598021,https://www.iucnredlist.org/species/207598021/137855176,Podarcis erhardii,LC,137855176,Podarcis,erhardii,Global; Europe
+459,2024,TRUE,FALSE,FALSE,207598021,https://www.iucnredlist.org/species/207598021/137855176,Podarcis erhardii,LC,137855176,Podarcis,erhardii,Global; Europe
+460,2024,TRUE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/137843120,Podarcis filfolensis,LC,137843120,Podarcis,filfolensis,Global; Europe; Mediterranean
+461,2024,TRUE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/137843120,Podarcis filfolensis,LC,137843120,Podarcis,filfolensis,Global; Europe; Mediterranean
+462,2024,TRUE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/137843120,Podarcis filfolensis,LC,137843120,Podarcis,filfolensis,Global; Europe; Mediterranean
+463,2009,FALSE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/7479516,Podarcis filfolensis,LC,7479516,Podarcis,filfolensis,Global; Europe
+464,2009,FALSE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/7479516,Podarcis filfolensis,LC,7479516,Podarcis,filfolensis,Global; Europe
+465,2006,FALSE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/7479628,Podarcis filfolensis,LC,7479628,Podarcis,filfolensis,Global; Europe
+466,2006,FALSE,FALSE,FALSE,17793,https://www.iucnredlist.org/species/17793/7479628,Podarcis filfolensis,LC,7479628,Podarcis,filfolensis,Global; Europe
+467,2024,TRUE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/137855287,Podarcis gaigeae,LC,137855287,Podarcis,gaigeae,Global; Europe; Mediterranean
+468,2024,TRUE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/137855287,Podarcis gaigeae,LC,137855287,Podarcis,gaigeae,Global; Europe; Mediterranean
+469,2024,TRUE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/137855287,Podarcis gaigeae,LC,137855287,Podarcis,gaigeae,Global; Europe; Mediterranean
+470,2009,FALSE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/12513064,Podarcis gaigeae,VU,12513064,Podarcis,gaigeae,Global; Europe
+471,2009,FALSE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/12513064,Podarcis gaigeae,VU,12513064,Podarcis,gaigeae,Global; Europe
+472,2006,FALSE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/12513182,Podarcis gaigeae,VU,12513182,Podarcis,gaigeae,Global; Europe
+473,2006,FALSE,FALSE,FALSE,61547,https://www.iucnredlist.org/species/61547/12513182,Podarcis gaigeae,VU,12513182,Podarcis,gaigeae,Global; Europe
+474,2024,TRUE,FALSE,FALSE,204865442,https://www.iucnredlist.org/species/204865442/137855369,Podarcis hispanicus,LC,137855369,Podarcis,hispanicus,Global; Europe; Mediterranean
+475,2024,TRUE,FALSE,FALSE,204865442,https://www.iucnredlist.org/species/204865442/137855369,Podarcis hispanicus,LC,137855369,Podarcis,hispanicus,Global; Europe; Mediterranean
+476,2024,TRUE,FALSE,FALSE,204865442,https://www.iucnredlist.org/species/204865442/137855369,Podarcis hispanicus,LC,137855369,Podarcis,hispanicus,Global; Europe; Mediterranean
+477,2024,TRUE,FALSE,FALSE,157290,https://www.iucnredlist.org/species/157290/207654693,Podarcis levendis,VU,207654693,Podarcis,levendis,Global; Europe; Mediterranean
+478,2024,TRUE,FALSE,FALSE,157290,https://www.iucnredlist.org/species/157290/207654693,Podarcis levendis,VU,207654693,Podarcis,levendis,Global; Europe; Mediterranean
+479,2024,TRUE,FALSE,FALSE,157290,https://www.iucnredlist.org/species/157290/207654693,Podarcis levendis,VU,207654693,Podarcis,levendis,Global; Europe; Mediterranean
+480,2009,FALSE,FALSE,FALSE,157290,https://www.iucnredlist.org/species/157290/5072127,Podarcis levendis,VU,5072127,Podarcis,levendis,Global; Europe
+481,2009,FALSE,FALSE,FALSE,157290,https://www.iucnredlist.org/species/157290/5072127,Podarcis levendis,VU,5072127,Podarcis,levendis,Global; Europe
+482,2024,TRUE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/137843212,Podarcis lilfordi,NT,137843212,Podarcis,lilfordi,Global; Europe; Mediterranean
+483,2024,TRUE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/137843212,Podarcis lilfordi,NT,137843212,Podarcis,lilfordi,Global; Europe; Mediterranean
+484,2024,TRUE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/137843212,Podarcis lilfordi,NT,137843212,Podarcis,lilfordi,Global; Europe; Mediterranean
+485,2009,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481971,Podarcis lilfordi,EN,7481971,Podarcis,lilfordi,Global; Europe
+486,2009,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481971,Podarcis lilfordi,EN,7481971,Podarcis,lilfordi,Global; Europe
+487,2006,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7482194,Podarcis lilfordi,EN,7482194,Podarcis,lilfordi,Global; Europe
+488,2006,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7482194,Podarcis lilfordi,EN,7482194,Podarcis,lilfordi,Global; Europe
+489,1996,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481933,Podarcis lilfordi,VU,7481933,Podarcis,lilfordi,Global; Europe
+490,1996,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481933,Podarcis lilfordi,VU,7481933,Podarcis,lilfordi,Global; Europe
+491,1994,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7482369,Podarcis lilfordi,V,7482369,Podarcis,lilfordi,Global; Europe
+492,1994,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7482369,Podarcis lilfordi,V,7482369,Podarcis,lilfordi,Global; Europe
+493,1990,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481954,Podarcis lilfordi,V,7481954,Podarcis,lilfordi,Global; Europe
+494,1990,FALSE,FALSE,FALSE,17795,https://www.iucnredlist.org/species/17795/7481954,Podarcis lilfordi,V,7481954,Podarcis,lilfordi,Global; Europe
+495,2024,TRUE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/137855479,Podarcis melisellensis,LC,137855479,Podarcis,melisellensis,Global; Europe
+496,2024,TRUE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/137855479,Podarcis melisellensis,LC,137855479,Podarcis,melisellensis,Global; Europe
+497,2009,FALSE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/12513547,Podarcis melisellensis,LC,12513547,Podarcis,melisellensis,Global; Europe
+498,2009,FALSE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/12513547,Podarcis melisellensis,LC,12513547,Podarcis,melisellensis,Global; Europe
+499,2006,FALSE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/12513668,Podarcis melisellensis,LC,12513668,Podarcis,melisellensis,Global; Europe
+500,2006,FALSE,FALSE,FALSE,61549,https://www.iucnredlist.org/species/61549/12513668,Podarcis melisellensis,LC,12513668,Podarcis,melisellensis,Global; Europe
+501,2024,TRUE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/137843375,Podarcis milensis,LC,137843375,Podarcis,milensis,Global; Europe; Mediterranean
+502,2024,TRUE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/137843375,Podarcis milensis,LC,137843375,Podarcis,milensis,Global; Europe; Mediterranean
+503,2024,TRUE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/137843375,Podarcis milensis,LC,137843375,Podarcis,milensis,Global; Europe; Mediterranean
+504,2009,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482413,Podarcis milensis,VU,7482413,Podarcis,milensis,Global; Europe
+505,2009,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482413,Podarcis milensis,VU,7482413,Podarcis,milensis,Global; Europe
+506,2006,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482581,Podarcis milensis,NT,7482581,Podarcis,milensis,Global; Europe
+507,2006,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482581,Podarcis milensis,NT,7482581,Podarcis,milensis,Global; Europe
+508,1996,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482390,Podarcis milensis,VU,7482390,Podarcis,milensis,Global; Europe
+509,1996,FALSE,FALSE,FALSE,17797,https://www.iucnredlist.org/species/17797/7482390,Podarcis milensis,VU,7482390,Podarcis,milensis,Global; Europe
+510,2024,TRUE,FALSE,FALSE,61550,https://www.iucnredlist.org/species/61550/218505859,Podarcis muralis,LC,218505859,Podarcis,muralis,Europe
+511,2009,FALSE,FALSE,FALSE,61550,https://www.iucnredlist.org/species/61550/12514346,Podarcis muralis,LC,12514346,Podarcis,muralis,Europe
+512,2009,TRUE,FALSE,FALSE,61550,https://www.iucnredlist.org/species/61550/12514105,Podarcis muralis,LC,12514105,Podarcis,muralis,Global
+513,2006,FALSE,FALSE,FALSE,61550,https://www.iucnredlist.org/species/61550/12513870,Podarcis muralis,LC,12513870,Podarcis,muralis,Global
+514,2024,TRUE,FALSE,FALSE,224258102,https://www.iucnredlist.org/species/224258102/137855826,Podarcis peloponnesiacus,LC,137855826,Podarcis,peloponnesiacus,Global; Europe; Mediterranean
+515,2024,TRUE,FALSE,FALSE,224258102,https://www.iucnredlist.org/species/224258102/137855826,Podarcis peloponnesiacus,LC,137855826,Podarcis,peloponnesiacus,Global; Europe; Mediterranean
+516,2024,TRUE,FALSE,FALSE,224258102,https://www.iucnredlist.org/species/224258102/137855826,Podarcis peloponnesiacus,LC,137855826,Podarcis,peloponnesiacus,Global; Europe; Mediterranean
+517,2024,TRUE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/137843475,Podarcis pityusensis,EN,137843475,Podarcis,pityusensis,Global; Europe; Mediterranean
+518,2024,TRUE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/137843475,Podarcis pityusensis,EN,137843475,Podarcis,pityusensis,Global; Europe; Mediterranean
+519,2024,TRUE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/137843475,Podarcis pityusensis,EN,137843475,Podarcis,pityusensis,Global; Europe; Mediterranean
+520,2009,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482971,Podarcis pityusensis,NT,7482971,Podarcis,pityusensis,Global; Europe
+521,2009,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482971,Podarcis pityusensis,NT,7482971,Podarcis,pityusensis,Global; Europe
+522,2006,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7483147,Podarcis pityusensis,NT,7483147,Podarcis,pityusensis,Global; Europe
+523,2006,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7483147,Podarcis pityusensis,NT,7483147,Podarcis,pityusensis,Global; Europe
+524,1996,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482933,Podarcis pityusensis,VU,7482933,Podarcis,pityusensis,Global; Europe
+525,1996,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482933,Podarcis pityusensis,VU,7482933,Podarcis,pityusensis,Global; Europe
+526,1994,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7483287,Podarcis pityusensis,R,7483287,Podarcis,pityusensis,Global; Europe
+527,1994,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7483287,Podarcis pityusensis,R,7483287,Podarcis,pityusensis,Global; Europe
+528,1990,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482954,Podarcis pityusensis,R,7482954,Podarcis,pityusensis,Global; Europe
+529,1990,FALSE,FALSE,FALSE,17800,https://www.iucnredlist.org/species/17800/7482954,Podarcis pityusensis,R,7482954,Podarcis,pityusensis,Global; Europe
+530,2024,TRUE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/137855910,Podarcis raffonei,EN,137855910,Podarcis,raffonei,Global; Europe; Mediterranean
+531,2024,TRUE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/137855910,Podarcis raffonei,EN,137855910,Podarcis,raffonei,Global; Europe; Mediterranean
+532,2024,TRUE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/137855910,Podarcis raffonei,EN,137855910,Podarcis,raffonei,Global; Europe; Mediterranean
+533,2009,FALSE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/12514822,Podarcis raffonei,CR,12514822,Podarcis,raffonei,Global; Europe
+534,2009,FALSE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/12514822,Podarcis raffonei,CR,12514822,Podarcis,raffonei,Global; Europe
+535,2006,FALSE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/12514936,Podarcis raffonei,CR,12514936,Podarcis,raffonei,Global; Europe
+536,2006,FALSE,FALSE,FALSE,61552,https://www.iucnredlist.org/species/61552/12514936,Podarcis raffonei,CR,12514936,Podarcis,raffonei,Global; Europe
+537,2024,TRUE,FALSE,FALSE,222915874,https://www.iucnredlist.org/species/222915874/217280511,Podarcis siculus,LC,217280511,Podarcis,siculus,Global; Europe
+538,2024,TRUE,FALSE,FALSE,222915874,https://www.iucnredlist.org/species/222915874/217280511,Podarcis siculus,LC,217280511,Podarcis,siculus,Global; Europe
+539,2024,TRUE,FALSE,FALSE,204829909,https://www.iucnredlist.org/species/204829909/204830613,Podarcis tauricus,LC,204830613,Podarcis,tauricus,Europe
+540,2024,TRUE,FALSE,FALSE,204829909,https://www.iucnredlist.org/species/204829909/137856195,Podarcis tauricus,LC,137856195,Podarcis,tauricus,Global
+541,2024,TRUE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/137862171,Podarcis tiliguerta,LC,137862171,Podarcis,tiliguerta,Global; Europe; Mediterranean
+542,2024,TRUE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/137862171,Podarcis tiliguerta,LC,137862171,Podarcis,tiliguerta,Global; Europe; Mediterranean
+543,2024,TRUE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/137862171,Podarcis tiliguerta,LC,137862171,Podarcis,tiliguerta,Global; Europe; Mediterranean
+544,2009,FALSE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/5072953,Podarcis tiliguerta,LC,5072953,Podarcis,tiliguerta,Global; Europe
+545,2009,FALSE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/5072953,Podarcis tiliguerta,LC,5072953,Podarcis,tiliguerta,Global; Europe
+546,2006,FALSE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/5073125,Podarcis tiliguerta,LC,5073125,Podarcis,tiliguerta,Global; Europe
+547,2006,FALSE,FALSE,FALSE,157293,https://www.iucnredlist.org/species/157293/5073125,Podarcis tiliguerta,LC,5073125,Podarcis,tiliguerta,Global; Europe
+548,2024,TRUE,FALSE,FALSE,61556,https://www.iucnredlist.org/species/61556/207990918,Podarcis vaucheri,LC,207990918,Podarcis,vaucheri,Europe
+549,2009,FALSE,FALSE,FALSE,61556,https://www.iucnredlist.org/species/61556/12516351,Podarcis vaucheri,LC,12516351,Podarcis,vaucheri,Europe
+550,2009,FALSE,FALSE,FALSE,61556,https://www.iucnredlist.org/species/61556/12516208,Podarcis vaucheri,LC,12516208,Podarcis,vaucheri,Global
+551,2009,TRUE,FALSE,FALSE,61556,https://www.iucnredlist.org/species/61556/86439309,Podarcis vaucheri,LC,86439309,Podarcis,vaucheri,Global
+552,2006,FALSE,FALSE,FALSE,61556,https://www.iucnredlist.org/species/61556/12516103,Podarcis vaucheri,LC,12516103,Podarcis,vaucheri,Global
+553,2024,TRUE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/137856508,Podarcis waglerianus,LC,137856508,Podarcis,waglerianus,Global; Europe; Mediterranean
+554,2024,TRUE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/137856508,Podarcis waglerianus,LC,137856508,Podarcis,waglerianus,Global; Europe; Mediterranean
+555,2024,TRUE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/137856508,Podarcis waglerianus,LC,137856508,Podarcis,waglerianus,Global; Europe; Mediterranean
+556,2009,FALSE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/12516504,Podarcis waglerianus,LC,12516504,Podarcis,waglerianus,Global; Europe
+557,2009,FALSE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/12516504,Podarcis waglerianus,LC,12516504,Podarcis,waglerianus,Global; Europe
+558,2006,FALSE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/12516638,Podarcis waglerianus,LC,12516638,Podarcis,waglerianus,Global; Europe
+559,2006,FALSE,FALSE,FALSE,61557,https://www.iucnredlist.org/species/61557/12516638,Podarcis waglerianus,LC,12516638,Podarcis,waglerianus,Global; Europe
+560,2024,TRUE,FALSE,FALSE,61559,https://www.iucnredlist.org/species/61559/217394438,Psammodromus blanci,NA,217394438,Psammodromus,blanci,Europe
+561,2009,FALSE,FALSE,FALSE,61559,https://www.iucnredlist.org/species/61559/12491908,Psammodromus blanci,NE,12491908,Psammodromus,blanci,Europe
+562,2009,FALSE,FALSE,FALSE,61559,https://www.iucnredlist.org/species/61559/209311444,Psammodromus blanci,NA,209311444,Psammodromus,blanci,Europe
+563,2009,TRUE,FALSE,FALSE,61559,https://www.iucnredlist.org/species/61559/12491750,Psammodromus blanci,NT,12491750,Psammodromus,blanci,Global
+564,2006,FALSE,FALSE,FALSE,61559,https://www.iucnredlist.org/species/61559/12491648,Psammodromus blanci,NT,12491648,Psammodromus,blanci,Global
+565,2024,TRUE,FALSE,FALSE,19072970,https://www.iucnredlist.org/species/19072970/19072994,Psammodromus hispanicus,LC,19072994,Psammodromus,hispanicus,Global; Europe; Mediterranean
+566,2024,TRUE,FALSE,FALSE,19072970,https://www.iucnredlist.org/species/19072970/19072994,Psammodromus hispanicus,LC,19072994,Psammodromus,hispanicus,Global; Europe; Mediterranean
+567,2024,TRUE,FALSE,FALSE,19072970,https://www.iucnredlist.org/species/19072970/19072994,Psammodromus hispanicus,LC,19072994,Psammodromus,hispanicus,Global; Europe; Mediterranean
+568,2024,TRUE,FALSE,FALSE,61581,https://www.iucnredlist.org/species/61581/207657357,Scelarcis perspicillata,NA,207657357,Scelarcis,perspicillata,Europe
+569,2009,FALSE,FALSE,FALSE,61581,https://www.iucnredlist.org/species/61581/12498163,Scelarcis perspicillata,NA,12498163,Scelarcis,perspicillata,Europe
+570,2009,TRUE,FALSE,FALSE,61581,https://www.iucnredlist.org/species/61581/12498039,Scelarcis perspicillata,LC,12498039,Scelarcis,perspicillata,Global
+571,2006,FALSE,FALSE,FALSE,61581,https://www.iucnredlist.org/species/61581/12497935,Scelarcis perspicillata,LC,12497935,Scelarcis,perspicillata,Global
+572,2024,TRUE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/207657622,Teira dugesii,LC,207657622,Teira,dugesii,Global; Europe
+573,2024,TRUE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/207657622,Teira dugesii,LC,207657622,Teira,dugesii,Global; Europe
+574,2009,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/12501831,Teira dugesii,LC,12501831,Teira,dugesii,Global; Europe
+575,2009,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/121720531,Teira dugesii,LC,121720531,Teira,dugesii,Global; Europe
+576,2009,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/121720531,Teira dugesii,LC,121720531,Teira,dugesii,Global; Europe
+577,2009,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/12501831,Teira dugesii,LC,12501831,Teira,dugesii,Global; Europe
+578,2006,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/12501948,Teira dugesii,LC,12501948,Teira,dugesii,Global; Europe
+579,2006,FALSE,FALSE,FALSE,61521,https://www.iucnredlist.org/species/61521/12501948,Teira dugesii,LC,12501948,Teira,dugesii,Global; Europe
+580,2024,TRUE,FALSE,FALSE,218293375,https://www.iucnredlist.org/species/218293375/137858480,Timon lepidus,LC,137858480,Timon,lepidus,Global; Europe
+581,2024,TRUE,FALSE,FALSE,218293375,https://www.iucnredlist.org/species/218293375/137858480,Timon lepidus,LC,137858480,Timon,lepidus,Global; Europe
+582,2024,TRUE,FALSE,FALSE,61585,https://www.iucnredlist.org/species/61585/207657895,Timon tangitanus,NA,207657895,Timon,tangitanus,Europe
+583,2009,FALSE,FALSE,FALSE,61585,https://www.iucnredlist.org/species/61585/12500310,Timon tangitanus,NE,12500310,Timon,tangitanus,Europe
+584,2009,TRUE,FALSE,FALSE,61585,https://www.iucnredlist.org/species/61585/12500163,Timon tangitanus,LC,12500163,Timon,tangitanus,Global
+585,2006,FALSE,FALSE,FALSE,61585,https://www.iucnredlist.org/species/61585/12500051,Timon tangitanus,LC,12500051,Timon,tangitanus,Global
+586,2024,TRUE,FALSE,FALSE,243561476,https://www.iucnredlist.org/species/243561476/217510164,Zootoca vivipara,LC,217510164,Zootoca,vivipara,Global
+587,2024,TRUE,FALSE,FALSE,243561476,https://www.iucnredlist.org/species/243561476/207991664,Zootoca vivipara,LC,207991664,Zootoca,vivipara,Europe
+588,2024,TRUE,FALSE,FALSE,61450,https://www.iucnredlist.org/species/61450/207661575,Ablepharus budaki,LC,207661575,Ablepharus,budaki,Europe
+589,2009,FALSE,FALSE,FALSE,61450,https://www.iucnredlist.org/species/61450/12488208,Ablepharus budaki,LC,12488208,Ablepharus,budaki,Europe
+590,2009,TRUE,FALSE,FALSE,61450,https://www.iucnredlist.org/species/61450/12488080,Ablepharus budaki,LC,12488080,Ablepharus,budaki,Global
+591,2006,FALSE,FALSE,FALSE,61450,https://www.iucnredlist.org/species/61450/12487975,Ablepharus budaki,LC,12487975,Ablepharus,budaki,Global
+592,2024,TRUE,FALSE,FALSE,29691,https://www.iucnredlist.org/species/29691/207989721,Ablepharus kitaibelii,LC,207989721,Ablepharus,kitaibelii,Europe
+593,2009,FALSE,FALSE,FALSE,29691,https://www.iucnredlist.org/species/29691/9526826,Ablepharus kitaibelii,LC,9526826,Ablepharus,kitaibelii,Europe
+594,2009,FALSE,FALSE,FALSE,29691,https://www.iucnredlist.org/species/29691/9526588,Ablepharus kitaibelii,LC,9526588,Ablepharus,kitaibelii,Global
+595,2017,TRUE,FALSE,FALSE,29691,https://www.iucnredlist.org/species/29691/115767606,Ablepharus kitaibelii,LC,115767606,Ablepharus,kitaibelii,Global
+596,2006,FALSE,FALSE,FALSE,29691,https://www.iucnredlist.org/species/29691/9526432,Ablepharus kitaibelii,LC,9526432,Ablepharus,kitaibelii,Global
+597,2024,TRUE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/137847259,Chalcides bedriagai,LC,137847259,Chalcides,bedriagai,Global; Europe
+598,2024,TRUE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/137847259,Chalcides bedriagai,LC,137847259,Chalcides,bedriagai,Global; Europe
+599,2009,FALSE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/12472701,Chalcides bedriagai,NT,12472701,Chalcides,bedriagai,Global; Europe
+600,2009,FALSE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/12472701,Chalcides bedriagai,NT,12472701,Chalcides,bedriagai,Global; Europe
+601,2006,FALSE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/12472888,Chalcides bedriagai,NT,12472888,Chalcides,bedriagai,Global; Europe
+602,2006,FALSE,FALSE,FALSE,61472,https://www.iucnredlist.org/species/61472/12472888,Chalcides bedriagai,NT,12472888,Chalcides,bedriagai,Global; Europe
+603,2024,TRUE,FALSE,FALSE,61473,https://www.iucnredlist.org/species/61473/207990233,Chalcides chalcides,LC,207990233,Chalcides,chalcides,Europe
+604,2009,FALSE,FALSE,FALSE,61473,https://www.iucnredlist.org/species/61473/12473534,Chalcides chalcides,LC,12473534,Chalcides,chalcides,Europe
+605,2009,TRUE,FALSE,FALSE,61473,https://www.iucnredlist.org/species/61473/12473373,Chalcides chalcides,LC,12473373,Chalcides,chalcides,Global
+606,2006,FALSE,FALSE,FALSE,61473,https://www.iucnredlist.org/species/61473/12473242,Chalcides chalcides,LC,12473242,Chalcides,chalcides,Global
+607,2024,TRUE,FALSE,FALSE,157283,https://www.iucnredlist.org/species/157283/207662295,Chalcides ocellatus,LC,207662295,Chalcides,ocellatus,Europe
+608,2021,TRUE,FALSE,FALSE,157283,https://www.iucnredlist.org/species/157283/748508,Chalcides ocellatus,LC,748508,Chalcides,ocellatus,Global
+609,2009,FALSE,FALSE,FALSE,157283,https://www.iucnredlist.org/species/157283/5069634,Chalcides ocellatus,LC,5069634,Chalcides,ocellatus,Europe
+610,2024,TRUE,FALSE,FALSE,61484,https://www.iucnredlist.org/species/61484/216963527,Chalcides parallelus,NA,216963527,Chalcides,parallelus,Europe
+611,2009,FALSE,FALSE,FALSE,61484,https://www.iucnredlist.org/species/61484/12478157,Chalcides parallelus,NA,12478157,Chalcides,parallelus,Europe
+612,2009,FALSE,FALSE,FALSE,61484,https://www.iucnredlist.org/species/61484/12478003,Chalcides parallelus,EN,12478003,Chalcides,parallelus,Global
+613,2009,TRUE,FALSE,FALSE,61484,https://www.iucnredlist.org/species/61484/86149913,Chalcides parallelus,EN,86149913,Chalcides,parallelus,Global
+614,2006,FALSE,FALSE,FALSE,61484,https://www.iucnredlist.org/species/61484/12477882,Chalcides parallelus,EN,12477882,Chalcides,parallelus,Global
+615,2024,TRUE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/137848983,Chalcides sexlineatus,EN,137848983,Chalcides,sexlineatus,Global; Europe
+616,2024,TRUE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/137848983,Chalcides sexlineatus,EN,137848983,Chalcides,sexlineatus,Global; Europe
+617,2009,FALSE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/12479057,Chalcides sexlineatus,LC,12479057,Chalcides,sexlineatus,Global; Europe
+618,2009,FALSE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/12479057,Chalcides sexlineatus,LC,12479057,Chalcides,sexlineatus,Global; Europe
+619,2006,FALSE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/12479182,Chalcides sexlineatus,LC,12479182,Chalcides,sexlineatus,Global; Europe
+620,2006,FALSE,FALSE,FALSE,61487,https://www.iucnredlist.org/species/61487/12479182,Chalcides sexlineatus,LC,12479182,Chalcides,sexlineatus,Global; Europe
+621,2024,TRUE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/137849061,Chalcides simonyi,DD,137849061,Chalcides,simonyi,Global; Europe
+622,2024,TRUE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/137849061,Chalcides simonyi,DD,137849061,Chalcides,simonyi,Global; Europe
+623,2009,FALSE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/12479483,Chalcides simonyi,EN,12479483,Chalcides,simonyi,Global; Europe
+624,2009,FALSE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/12479483,Chalcides simonyi,EN,12479483,Chalcides,simonyi,Global; Europe
+625,2006,FALSE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/12479636,Chalcides simonyi,EN,12479636,Chalcides,simonyi,Global; Europe
+626,2006,FALSE,FALSE,FALSE,61488,https://www.iucnredlist.org/species/61488/12479636,Chalcides simonyi,EN,12479636,Chalcides,simonyi,Global; Europe
+627,2024,TRUE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/137849177,Chalcides striatus,LC,137849177,Chalcides,striatus,Global; Europe
+628,2024,TRUE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/137849177,Chalcides striatus,LC,137849177,Chalcides,striatus,Global; Europe
+629,2009,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/12479864,Chalcides striatus,LC,12479864,Chalcides,striatus,Global; Europe
+630,2009,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/86452339,Chalcides striatus,LC,86452339,Chalcides,striatus,Global; Europe
+631,2009,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/86452339,Chalcides striatus,LC,86452339,Chalcides,striatus,Global; Europe
+632,2009,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/12479864,Chalcides striatus,LC,12479864,Chalcides,striatus,Global; Europe
+633,2006,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/12480051,Chalcides striatus,LC,12480051,Chalcides,striatus,Global; Europe
+634,2006,FALSE,FALSE,FALSE,61489,https://www.iucnredlist.org/species/61489/12480051,Chalcides striatus,LC,12480051,Chalcides,striatus,Global; Europe
+635,2024,TRUE,FALSE,FALSE,200056717,https://www.iucnredlist.org/species/200056717/200056751,Chalcides viridanus,LC,200056751,Chalcides,viridanus,Global; Europe
+636,2024,TRUE,FALSE,FALSE,200056717,https://www.iucnredlist.org/species/200056717/200056751,Chalcides viridanus,LC,200056751,Chalcides,viridanus,Global; Europe
+637,2024,TRUE,FALSE,FALSE,157289,https://www.iucnredlist.org/species/157289/207663666,Eumeces schneiderii,DD,207663666,Eumeces,schneiderii,Europe
+638,2021,TRUE,FALSE,FALSE,157289,https://www.iucnredlist.org/species/157289/749631,Eumeces schneiderii,LC,749631,Eumeces,schneiderii,Global
+639,2009,FALSE,FALSE,FALSE,157289,https://www.iucnredlist.org/species/157289/5071822,Eumeces schneiderii,LC,5071822,Eumeces,schneiderii,Europe
+640,2024,TRUE,FALSE,FALSE,182564317,https://www.iucnredlist.org/species/182564317/137854561,Ophiomorus punctatissimus,LC,137854561,Ophiomorus,punctatissimus,Global; Europe; Mediterranean
+641,2024,TRUE,FALSE,FALSE,182564317,https://www.iucnredlist.org/species/182564317/137854561,Ophiomorus punctatissimus,LC,137854561,Ophiomorus,punctatissimus,Global; Europe; Mediterranean
+642,2024,TRUE,FALSE,FALSE,182564317,https://www.iucnredlist.org/species/182564317/137854561,Ophiomorus punctatissimus,LC,137854561,Ophiomorus,punctatissimus,Global; Europe; Mediterranean
+643,2024,TRUE,FALSE,FALSE,61589,https://www.iucnredlist.org/species/61589/217943612,Trogonophis wiegmanni,NA,217943612,Trogonophis,wiegmanni,Europe
+644,2009,FALSE,FALSE,FALSE,61589,https://www.iucnredlist.org/species/61589/12502327,Trogonophis wiegmanni,NE,12502327,Trogonophis,wiegmanni,Europe
+645,2009,TRUE,FALSE,FALSE,61589,https://www.iucnredlist.org/species/61589/12502172,Trogonophis wiegmanni,LC,12502172,Trogonophis,wiegmanni,Global
+646,2006,FALSE,FALSE,FALSE,61589,https://www.iucnredlist.org/species/61589/12502049,Trogonophis wiegmanni,LC,12502049,Trogonophis,wiegmanni,Global
+647,2021,TRUE,FALSE,FALSE,157282,https://www.iucnredlist.org/species/157282/748274,Gloydius halys,LC,748274,Gloydius,halys,Global
+648,2009,TRUE,FALSE,FALSE,157282,https://www.iucnredlist.org/species/157282/5069394,Gloydius halys,NA,5069394,Gloydius,halys,Europe
+649,2024,TRUE,FALSE,FALSE,157295,https://www.iucnredlist.org/species/157295/207664712,Macrovipera lebetinus,LC,207664712,Macrovipera,lebetinus,Europe
+650,2021,TRUE,FALSE,FALSE,157295,https://www.iucnredlist.org/species/157295/750117,Macrovipera lebetinus,LC,750117,Macrovipera,lebetinus,Global
+651,2009,FALSE,FALSE,FALSE,157295,https://www.iucnredlist.org/species/157295/5073657,Macrovipera lebetinus,LC,5073657,Macrovipera,lebetinus,Europe
+652,2024,TRUE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/137843008,Macrovipera schweizeri,EN,137843008,Macrovipera,schweizeri,Global; Europe; Mediterranean
+653,2024,TRUE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/137843008,Macrovipera schweizeri,EN,137843008,Macrovipera,schweizeri,Global; Europe; Mediterranean
+654,2024,TRUE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/137843008,Macrovipera schweizeri,EN,137843008,Macrovipera,schweizeri,Global; Europe; Mediterranean
+655,2009,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369754,Macrovipera schweizeri,EN,3369754,Macrovipera,schweizeri,Global; Europe
+656,2009,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369754,Macrovipera schweizeri,EN,3369754,Macrovipera,schweizeri,Global; Europe
+657,2006,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369917,Macrovipera schweizeri,EN,3369917,Macrovipera,schweizeri,Global; Europe
+658,2006,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369917,Macrovipera schweizeri,EN,3369917,Macrovipera,schweizeri,Global; Europe
+659,1996,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369714,Macrovipera schweizeri,CR,3369714,Macrovipera,schweizeri,Global; Europe
+660,1996,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369714,Macrovipera schweizeri,CR,3369714,Macrovipera,schweizeri,Global; Europe
+661,1994,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369735,Macrovipera schweizeri,E,3369735,Macrovipera,schweizeri,Global; Europe
+662,1994,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3369735,Macrovipera schweizeri,E,3369735,Macrovipera,schweizeri,Global; Europe
+663,1990,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370039,Macrovipera schweizeri,E,3370039,Macrovipera,schweizeri,Global; Europe
+664,1990,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370039,Macrovipera schweizeri,E,3370039,Macrovipera,schweizeri,Global; Europe
+665,1988,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370058,Macrovipera schweizeri,V,3370058,Macrovipera,schweizeri,Global; Europe
+666,1988,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370058,Macrovipera schweizeri,V,3370058,Macrovipera,schweizeri,Global; Europe
+667,1986,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370077,Macrovipera schweizeri,V,3370077,Macrovipera,schweizeri,Global; Europe
+668,1986,FALSE,FALSE,FALSE,12654,https://www.iucnredlist.org/species/12654/3370077,Macrovipera schweizeri,V,3370077,Macrovipera,schweizeri,Global; Europe
+669,2024,TRUE,FALSE,FALSE,61537,https://www.iucnredlist.org/species/61537/207990775,Montivipera xanthina,LC,207990775,Montivipera,xanthina,Europe
+670,2009,FALSE,FALSE,FALSE,61537,https://www.iucnredlist.org/species/61537/12510041,Montivipera xanthina,LC,12510041,Montivipera,xanthina,Europe
+671,2009,FALSE,FALSE,FALSE,61537,https://www.iucnredlist.org/species/61537/12509884,Montivipera xanthina,LC,12509884,Montivipera,xanthina,Global
+672,2009,TRUE,FALSE,FALSE,61537,https://www.iucnredlist.org/species/61537/86548598,Montivipera xanthina,LC,86548598,Montivipera,xanthina,Global
+673,2006,FALSE,FALSE,FALSE,61537,https://www.iucnredlist.org/species/61537/12509778,Montivipera xanthina,LC,12509778,Montivipera,xanthina,Global
+674,2024,TRUE,FALSE,FALSE,62255,https://www.iucnredlist.org/species/62255/207991981,Vipera ammodytes,LC,207991981,Vipera,ammodytes,Europe
+675,2009,FALSE,FALSE,FALSE,62255,https://www.iucnredlist.org/species/62255/12584553,Vipera ammodytes,LC,12584553,Vipera,ammodytes,Europe
+676,2009,TRUE,FALSE,FALSE,62255,https://www.iucnredlist.org/species/62255/12584303,Vipera ammodytes,LC,12584303,Vipera,ammodytes,Global
+677,1996,FALSE,FALSE,FALSE,62255,https://www.iucnredlist.org/species/62255/12584279,Vipera ammodytes,NE,12584279,Vipera,ammodytes,Global
+678,2024,FALSE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/137859549,Vipera aspis,VU,137859549,Vipera,aspis,Global; Europe
+679,2024,FALSE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/137859549,Vipera aspis,VU,137859549,Vipera,aspis,Global; Europe
+680,2024,TRUE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/260760059,Vipera aspis,VU,260760059,Vipera,aspis,Global; Europe
+681,2024,TRUE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/260760059,Vipera aspis,VU,260760059,Vipera,aspis,Global; Europe
+682,2009,FALSE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/12503170,Vipera aspis,LC,12503170,Vipera,aspis,Global; Europe
+683,2009,FALSE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/12503170,Vipera aspis,LC,12503170,Vipera,aspis,Global; Europe
+684,2006,FALSE,FALSE,FALSE,61591,https://www.iucnredlist.org/species/61591/12503377,Vipera aspis,LC,12503377,Vipera,aspis,Global
+685,2024,TRUE,FALSE,FALSE,47756146,https://www.iucnredlist.org/species/47756146/215261275,Vipera berus,LC,215261275,Vipera,berus,Europe
+686,2021,TRUE,FALSE,FALSE,47756146,https://www.iucnredlist.org/species/47756146/743903,Vipera berus,LC,743903,Vipera,berus,Global
+687,2024,TRUE,FALSE,FALSE,221202039,https://www.iucnredlist.org/species/221202039/137859691,Vipera latastei,VU,137859691,Vipera,latastei,Global; Europe
+688,2024,TRUE,FALSE,FALSE,221202039,https://www.iucnredlist.org/species/221202039/137859691,Vipera latastei,VU,137859691,Vipera,latastei,Global; Europe
+689,2024,TRUE,FALSE,FALSE,157268,https://www.iucnredlist.org/species/157268/215291182,Vipera renardi,VU,215291182,Vipera,renardi,Europe
+690,2021,TRUE,FALSE,FALSE,157268,https://www.iucnredlist.org/species/157268/746408,Vipera renardi,NT,746408,Vipera,renardi,Global
+691,2009,FALSE,FALSE,FALSE,157268,https://www.iucnredlist.org/species/157268/5066267,Vipera renardi,VU,5066267,Vipera,renardi,Europe
+692,2024,TRUE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/137859941,Vipera seoanei,NT,137859941,Vipera,seoanei,Global; Europe
+693,2024,TRUE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/137859941,Vipera seoanei,NT,137859941,Vipera,seoanei,Global; Europe
+694,2009,FALSE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/12505084,Vipera seoanei,LC,12505084,Vipera,seoanei,Global; Europe
+695,2009,FALSE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/12505084,Vipera seoanei,LC,12505084,Vipera,seoanei,Global; Europe
+696,2006,FALSE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/12505233,Vipera seoanei,LC,12505233,Vipera,seoanei,Global; Europe
+697,2006,FALSE,FALSE,FALSE,61594,https://www.iucnredlist.org/species/61594/12505233,Vipera seoanei,LC,12505233,Vipera,seoanei,Global; Europe
+698,2024,TRUE,FALSE,FALSE,218272979,https://www.iucnredlist.org/species/218272979/207526336,Vipera ursinii,VU,207526336,Vipera,ursinii,Global; Europe
+699,2024,TRUE,FALSE,FALSE,218272979,https://www.iucnredlist.org/species/218272979/207526336,Vipera ursinii,VU,207526336,Vipera,ursinii,Global; Europe
+700,2024,TRUE,FALSE,FALSE,7717,https://www.iucnredlist.org/species/7717/207667247,Emys orbicularis,NT,207667247,Emys,orbicularis,Europe
+701,2004,FALSE,FALSE,FALSE,7717,https://www.iucnredlist.org/species/7717/12843950,Emys orbicularis,NT,12843950,Emys,orbicularis,Europe
+702,1996,TRUE,FALSE,FALSE,7717,https://www.iucnredlist.org/species/7717/97292665,Emys orbicularis,LR/nt,97292665,Emys,orbicularis,Global
+703,1996,FALSE,FALSE,FALSE,7717,https://www.iucnredlist.org/species/7717/12844431,Emys orbicularis,LR/nt,12844431,Emys,orbicularis,Global
+704,2024,TRUE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/778721,Emys trinacris,DD,778721,Emys,trinacris,Global; Europe; Mediterranean
+705,2024,TRUE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/778721,Emys trinacris,DD,778721,Emys,trinacris,Global; Europe; Mediterranean
+706,2024,TRUE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/778721,Emys trinacris,DD,778721,Emys,trinacris,Global; Europe; Mediterranean
+707,2009,FALSE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/97415702,Emys trinacris,DD,97415702,Emys,trinacris,Global; Europe; Mediterranean
+708,2009,FALSE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/5199795,Emys trinacris,DD,5199795,Emys,trinacris,Global; Europe
+709,2009,FALSE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/97415702,Emys trinacris,DD,97415702,Emys,trinacris,Global; Europe; Mediterranean
+710,2009,FALSE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/5199795,Emys trinacris,DD,5199795,Emys,trinacris,Global; Europe
+711,2009,FALSE,FALSE,FALSE,158469,https://www.iucnredlist.org/species/158469/97415702,Emys trinacris,DD,97415702,Emys,trinacris,Global; Europe; Mediterranean
+712,2024,TRUE,FALSE,FALSE,158468,https://www.iucnredlist.org/species/158468/207995085,Mauremys leprosa,NT,207995085,Mauremys,leprosa,Europe
+713,2004,FALSE,FALSE,FALSE,158468,https://www.iucnredlist.org/species/158468/5199555,Mauremys leprosa,VU,5199555,Mauremys,leprosa,Europe
+714,2024,TRUE,FALSE,FALSE,158470,https://www.iucnredlist.org/species/158470/207668374,Mauremys rivulata,LC,207668374,Mauremys,rivulata,Europe
+715,2004,FALSE,FALSE,FALSE,158470,https://www.iucnredlist.org/species/158470/5200041,Mauremys rivulata,LC,5200041,Mauremys,rivulata,Europe
+716,2024,TRUE,FALSE,FALSE,21646,https://www.iucnredlist.org/species/21646/207669215,Testudo graeca,NT,207669215,Testudo,graeca,Europe
+717,2004,FALSE,FALSE,FALSE,21646,https://www.iucnredlist.org/species/21646/9305080,Testudo graeca,VU,9305080,Testudo,graeca,Europe
+718,1996,TRUE,FALSE,FALSE,21646,https://www.iucnredlist.org/species/21646/9305693,Testudo graeca,VU,9305693,Testudo,graeca,Global
+719,2024,TRUE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/2777071,Testudo hermanni,VU,2777071,Testudo,hermanni,Global; Europe
+720,2024,TRUE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/2777071,Testudo hermanni,VU,2777071,Testudo,hermanni,Global; Europe
+721,2004,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306057,Testudo hermanni,NT,9306057,Testudo,hermanni,Global; Europe
+722,2004,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306057,Testudo hermanni,NT,9306057,Testudo,hermanni,Global; Europe
+723,2004,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/176604335,Testudo hermanni,NT,176604335,Testudo,hermanni,Global; Europe
+724,2004,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/176604335,Testudo hermanni,NT,176604335,Testudo,hermanni,Global; Europe
+725,1996,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306437,Testudo hermanni,LR/nt,9306437,Testudo,hermanni,Global; Europe
+726,1996,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306437,Testudo hermanni,LR/nt,9306437,Testudo,hermanni,Global; Europe
+727,1994,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306036,Testudo hermanni,V,9306036,Testudo,hermanni,Global; Europe
+728,1994,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306036,Testudo hermanni,V,9306036,Testudo,hermanni,Global; Europe
+729,1990,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306019,Testudo hermanni,V,9306019,Testudo,hermanni,Global; Europe
+730,1990,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306019,Testudo hermanni,V,9306019,Testudo,hermanni,Global; Europe
+731,1988,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306571,Testudo hermanni,V,9306571,Testudo,hermanni,Global; Europe
+732,1988,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306571,Testudo hermanni,V,9306571,Testudo,hermanni,Global; Europe
+733,1986,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306554,Testudo hermanni,V,9306554,Testudo,hermanni,Global; Europe
+734,1986,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306554,Testudo hermanni,V,9306554,Testudo,hermanni,Global; Europe
+735,1982,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306537,Testudo hermanni,V,9306537,Testudo,hermanni,Global; Europe
+736,1982,FALSE,FALSE,FALSE,21648,https://www.iucnredlist.org/species/21648/9306537,Testudo hermanni,V,9306537,Testudo,hermanni,Global; Europe
+737,2024,TRUE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/2777760,Testudo marginata,LC,2777760,Testudo,marginata,Global; Europe
+738,2024,TRUE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/2777760,Testudo marginata,LC,2777760,Testudo,marginata,Global; Europe
+739,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307262,Testudo marginata,LC,9307262,Testudo,marginata,Global; Europe
+740,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307262,Testudo marginata,LC,9307262,Testudo,marginata,Global; Europe
+741,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/176606013,Testudo marginata,LC,176606013,Testudo,marginata,Global; Europe
+742,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/176606013,Testudo marginata,LC,176606013,Testudo,marginata,Global; Europe
+743,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/201295229,Testudo marginata,LC,201295229,Testudo,marginata,Global; Europe
+744,2004,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/201295229,Testudo marginata,LC,201295229,Testudo,marginata,Global; Europe
+745,1996,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307554,Testudo marginata,LR/lc,9307554,Testudo,marginata,Global; Europe
+746,1996,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307554,Testudo marginata,LR/lc,9307554,Testudo,marginata,Global; Europe
+747,1994,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307241,Testudo marginata,R,9307241,Testudo,marginata,Global; Europe
+748,1994,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307241,Testudo marginata,R,9307241,Testudo,marginata,Global; Europe
+749,1990,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307224,Testudo marginata,R,9307224,Testudo,marginata,Global; Europe
+750,1990,FALSE,FALSE,FALSE,21653,https://www.iucnredlist.org/species/21653/9307224,Testudo marginata,R,9307224,Testudo,marginata,Global; Europe
+751,2024,TRUE,FALSE,FALSE,62256,https://www.iucnredlist.org/species/62256/207992212,Trionyx triunguis,NA,207992212,Trionyx,triunguis,Europe
+752,2017,TRUE,FALSE,FALSE,62256,https://www.iucnredlist.org/species/62256/96894956,Trionyx triunguis,VU,96894956,Trionyx,triunguis,Global
+753,2004,FALSE,FALSE,FALSE,62256,https://www.iucnredlist.org/species/62256/12584793,Trionyx triunguis,NA,12584793,Trionyx,triunguis,Europe
+754,2024,TRUE,FALSE,FALSE,200124506,https://www.iucnredlist.org/species/200124506/207996298,Anatololacerta finikensis,#N/A,207996298,Anatololacerta,finikensis,Europe
+755,2024,TRUE,FALSE,FALSE,200054655,https://www.iucnredlist.org/species/200054655/204967155,Anatololacerta pelasgiana,LC,204967155,Anatololacerta,pelasgiana,Global
+756,2024,TRUE,FALSE,FALSE,200054655,https://www.iucnredlist.org/species/200054655/214954488,Anatololacerta pelasgiana,LC,214954488,Anatololacerta,pelasgiana,Europe
+757,2024,TRUE,FALSE,FALSE,47113100,https://www.iucnredlist.org/species/47113100/47113103,Anguis graeca,LC,47113103,Anguis,graeca,Global; Europe
+758,2024,TRUE,FALSE,FALSE,47113100,https://www.iucnredlist.org/species/47113100/47113103,Anguis graeca,LC,47113103,Anguis,graeca,Global; Europe
+759,2024,TRUE,FALSE,FALSE,200055370,https://www.iucnredlist.org/species/200055370/204091964,Anguis veronensis,LC,204091964,Anguis,veronensis,Global; Europe
+760,2024,TRUE,FALSE,FALSE,200055370,https://www.iucnredlist.org/species/200055370/204091964,Anguis veronensis,LC,204091964,Anguis,veronensis,Global; Europe
+761,2024,TRUE,FALSE,FALSE,200056417,https://www.iucnredlist.org/species/200056417/201258375,Chalcides coeruleopunctatus,LC,201258375,Chalcides,coeruleopunctatus,Global; Europe
+762,2024,TRUE,FALSE,FALSE,200056417,https://www.iucnredlist.org/species/200056417/201258375,Chalcides coeruleopunctatus,LC,201258375,Chalcides,coeruleopunctatus,Global; Europe
+763,2024,TRUE,FALSE,FALSE,196003,https://www.iucnredlist.org/species/196003/214997837,Darevskia lindholmi,LC,214997837,Darevskia,lindholmi,Global; Europe
+764,2024,TRUE,FALSE,FALSE,196003,https://www.iucnredlist.org/species/196003/214997837,Darevskia lindholmi,LC,214997837,Darevskia,lindholmi,Global; Europe
+765,2021,FALSE,FALSE,FALSE,196003,https://www.iucnredlist.org/species/196003/2441322,Darevskia lindholmi,LC,2441322,Darevskia,lindholmi,Global; Europe
+766,2021,FALSE,FALSE,FALSE,196003,https://www.iucnredlist.org/species/196003/2441322,Darevskia lindholmi,LC,2441322,Darevskia,lindholmi,Global; Europe
+767,2024,TRUE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/207062346,Dinarolacerta montenegrina,NT,207062346,Dinarolacerta,montenegrina,Global; Europe
+768,2024,TRUE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/207062346,Dinarolacerta montenegrina,NT,207062346,Dinarolacerta,montenegrina,Global; Europe
+769,2011,FALSE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/8989716,Dinarolacerta montenegrina,LC,8989716,Dinarolacerta,montenegrina,Global; Europe
+770,2011,FALSE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/8989716,Dinarolacerta montenegrina,LC,8989716,Dinarolacerta,montenegrina,Global; Europe
+771,2022,FALSE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/217869773,Dinarolacerta montenegrina,LC,217869773,Dinarolacerta,montenegrina,Global; Europe
+772,2022,FALSE,FALSE,FALSE,196001,https://www.iucnredlist.org/species/196001/217869773,Dinarolacerta montenegrina,LC,217869773,Dinarolacerta,montenegrina,Global; Europe
+773,2024,TRUE,FALSE,FALSE,61497,https://www.iucnredlist.org/species/61497/216964498,Eirenis levantinus,DD,216964498,Eirenis,levantinus,Europe
+774,2009,FALSE,FALSE,FALSE,61497,https://www.iucnredlist.org/species/61497/12482678,Eirenis levantinus,LC,12482678,Eirenis,levantinus,Global
+775,2009,TRUE,FALSE,FALSE,61497,https://www.iucnredlist.org/species/61497/86446786,Eirenis levantinus,LC,86446786,Eirenis,levantinus,Global
+776,2006,FALSE,FALSE,FALSE,61497,https://www.iucnredlist.org/species/61497/12482800,Eirenis levantinus,LC,12482800,Eirenis,levantinus,Global
+777,2024,TRUE,FALSE,FALSE,192165,https://www.iucnredlist.org/species/192165/270540051,Elaphe schrenckii,NA,270540051,Elaphe,schrenckii,Europe
+778,2024,FALSE,FALSE,FALSE,192165,https://www.iucnredlist.org/species/192165/200127570,Elaphe schrenckii,NA,200127570,Elaphe,schrenckii,Europe
+779,2021,TRUE,FALSE,FALSE,192165,https://www.iucnredlist.org/species/192165/2049795,Elaphe schrenckii,LC,2049795,Elaphe,schrenckii,Global
+780,2024,TRUE,FALSE,FALSE,183197,https://www.iucnredlist.org/species/183197/204877224,Hemorrhois algirus,NA,204877224,Hemorrhois,algirus,Europe
+781,2013,TRUE,FALSE,FALSE,183197,https://www.iucnredlist.org/species/183197/1733182,Hemorrhois algirus,LC,1733182,Hemorrhois,algirus,Global
+782,2024,TRUE,FALSE,FALSE,157291,https://www.iucnredlist.org/species/157291/207664181,Heremites auratus,LC,207664181,Heremites,auratus,Europe
+783,2017,FALSE,FALSE,FALSE,157291,https://www.iucnredlist.org/species/157291/120690374,Heremites auratus,NA,120690374,Heremites,auratus,Europe
+784,2009,FALSE,FALSE,FALSE,157291,https://www.iucnredlist.org/species/157291/5072372,Heremites auratus,NA,5072372,Heremites,auratus,Europe
+785,2009,FALSE,FALSE,FALSE,157291,https://www.iucnredlist.org/species/157291/5072229,Heremites auratus,LC,5072229,Heremites,auratus,Global
+786,2017,TRUE,FALSE,FALSE,157291,https://www.iucnredlist.org/species/157291/120690621,Heremites auratus,LC,120690621,Heremites,auratus,Global
+787,2024,TRUE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/207991230,Heremites vittatus,LC,207991230,Heremites,vittatus,Europe
+788,2009,FALSE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/12500868,Heremites vittatus,LC,12500868,Heremites,vittatus,Europe
+789,2017,FALSE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/120691831,Heremites vittatus,LC,120691831,Heremites,vittatus,Europe
+790,2009,FALSE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/86100414,Heremites vittatus,LC,86100414,Heremites,vittatus,Global
+791,2009,FALSE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/12500682,Heremites vittatus,LC,12500682,Heremites,vittatus,Global
+792,2017,TRUE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/120691593,Heremites vittatus,LC,120691593,Heremites,vittatus,Global
+793,2006,FALSE,FALSE,FALSE,61586,https://www.iucnredlist.org/species/61586/12500539,Heremites vittatus,LC,12500539,Heremites,vittatus,Global
+794,2024,TRUE,FALSE,FALSE,172704,https://www.iucnredlist.org/species/172704/200127917,Indotyphlops braminus,NA,200127917,Indotyphlops,braminus,Europe
+795,2021,TRUE,FALSE,FALSE,172704,https://www.iucnredlist.org/species/172704/1370555,Indotyphlops braminus,LC,1370555,Indotyphlops,braminus,Global
+796,2024,TRUE,FALSE,FALSE,200059599,https://www.iucnredlist.org/species/200059599/207062541,Lacerta citrovittata,LC,207062541,Lacerta,citrovittata,Global; Europe; Mediterranean
+797,2024,TRUE,FALSE,FALSE,200059599,https://www.iucnredlist.org/species/200059599/207062541,Lacerta citrovittata,LC,207062541,Lacerta,citrovittata,Global; Europe; Mediterranean
+798,2024,TRUE,FALSE,FALSE,200059599,https://www.iucnredlist.org/species/200059599/207062541,Lacerta citrovittata,LC,207062541,Lacerta,citrovittata,Global; Europe; Mediterranean
+799,2024,TRUE,FALSE,FALSE,200059613,https://www.iucnredlist.org/species/200059613/207062742,Lacerta diplochondrodes,LC,207062742,Lacerta,diplochondrodes,Europe
+800,2009,TRUE,FALSE,FALSE,164749,https://www.iucnredlist.org/species/164749/5922769,Lacerta media,LC,5922769,Lacerta,media,Global
+801,2024,TRUE,FALSE,FALSE,67662524,https://www.iucnredlist.org/species/67662524/204878214,Lampropeltis californiae,NA,204878214,Lampropeltis,californiae,Europe
+802,2019,TRUE,FALSE,FALSE,67662524,https://www.iucnredlist.org/species/67662524/67662576,Lampropeltis californiae,LC,67662576,Lampropeltis,californiae,Global
+803,2017,TRUE,FALSE,FALSE,164611,https://www.iucnredlist.org/species/164611/1061421,Paralaudakia caucasia,LC,1061421,Paralaudakia,caucasia,Global
+804,2024,TRUE,FALSE,FALSE,163446,https://www.iucnredlist.org/species/163446/207995336,Mauremys caspica,#N/A,207995336,Mauremys,caspica,Europe
+805,2024,TRUE,FALSE,FALSE,204783735,https://www.iucnredlist.org/species/204783735/204783942,Mediodactylus bartoni,LC,204783942,Mediodactylus,bartoni,Global; Europe; Mediterranean
+806,2024,TRUE,FALSE,FALSE,204783735,https://www.iucnredlist.org/species/204783735/204783942,Mediodactylus bartoni,LC,204783942,Mediodactylus,bartoni,Global; Europe; Mediterranean
+807,2024,TRUE,FALSE,FALSE,204783735,https://www.iucnredlist.org/species/204783735/204783942,Mediodactylus bartoni,LC,204783942,Mediodactylus,bartoni,Global; Europe; Mediterranean
+808,2024,TRUE,FALSE,FALSE,204784407,https://www.iucnredlist.org/species/204784407/207996302,Mediodactylus danilewskii,LC,207996302,Mediodactylus,danilewskii,Europe
+809,2024,TRUE,FALSE,FALSE,200133383,https://www.iucnredlist.org/species/200133383/200133456,Mediodactylus kotschyi,LC,200133456,Mediodactylus,kotschyi,Global; Europe
+810,2024,TRUE,FALSE,FALSE,200133383,https://www.iucnredlist.org/species/200133383/200133456,Mediodactylus kotschyi,LC,200133456,Mediodactylus,kotschyi,Global; Europe
+811,2024,TRUE,FALSE,FALSE,204784589,https://www.iucnredlist.org/species/204784589/204784677,Mediodactylus oertzeni,LC,204784677,Mediodactylus,oertzeni,Global; Europe; Mediterranean
+812,2024,TRUE,FALSE,FALSE,204784589,https://www.iucnredlist.org/species/204784589/204784677,Mediodactylus oertzeni,LC,204784677,Mediodactylus,oertzeni,Global; Europe; Mediterranean
+813,2024,TRUE,FALSE,FALSE,204784589,https://www.iucnredlist.org/species/204784589/204784677,Mediodactylus oertzeni,LC,204784677,Mediodactylus,oertzeni,Global; Europe; Mediterranean
+814,2024,TRUE,FALSE,FALSE,204785101,https://www.iucnredlist.org/species/204785101/204785120,Mediodactylus orientalis,LC,204785120,Mediodactylus,orientalis,Europe
+815,2024,TRUE,FALSE,FALSE,165594036,https://www.iucnredlist.org/species/165594036/207063147,Natrix astreptophora,LC,207063147,Natrix,astreptophora,Europe
+816,2024,TRUE,FALSE,FALSE,165594257,https://www.iucnredlist.org/species/165594257/165594282,Natrix helvetica,LC,165594282,Natrix,helvetica,Global; Europe
+817,2024,TRUE,FALSE,FALSE,165594257,https://www.iucnredlist.org/species/165594257/165594282,Natrix helvetica,LC,165594282,Natrix,helvetica,Global; Europe
+818,2024,TRUE,FALSE,FALSE,182563569,https://www.iucnredlist.org/species/182563569/207673254,Ophiomorus kardesi,DD,207673254,Ophiomorus,kardesi,Europe
+819,2024,TRUE,FALSE,FALSE,164674,https://www.iucnredlist.org/species/164674/207995920,Parvilacerta parva,NA,207995920,Parvilacerta,parva,Europe
+820,2009,TRUE,FALSE,FALSE,164674,https://www.iucnredlist.org/species/164674/5917051,Parvilacerta parva,LC,5917051,Parvilacerta,parva,Global
+821,1996,FALSE,FALSE,FALSE,164674,https://www.iucnredlist.org/species/164674/5917213,Parvilacerta parva,NE,5917213,Parvilacerta,parva,Global
+822,2024,TRUE,FALSE,FALSE,204843752,https://www.iucnredlist.org/species/204843752/204844363,Podarcis guadarramae,LC,204844363,Podarcis,guadarramae,Global; Europe; Mediterranean
+823,2024,TRUE,FALSE,FALSE,204843752,https://www.iucnredlist.org/species/204843752/204844363,Podarcis guadarramae,LC,204844363,Podarcis,guadarramae,Global; Europe; Mediterranean
+824,2024,TRUE,FALSE,FALSE,204843752,https://www.iucnredlist.org/species/204843752/204844363,Podarcis guadarramae,LC,204844363,Podarcis,guadarramae,Global; Europe; Mediterranean
+825,2024,TRUE,FALSE,FALSE,204832724,https://www.iucnredlist.org/species/204832724/204832746,Podarcis ionicus,LC,204832746,Podarcis,ionicus,Global; Europe; Mediterranean
+826,2024,TRUE,FALSE,FALSE,204832724,https://www.iucnredlist.org/species/204832724/204832746,Podarcis ionicus,LC,204832746,Podarcis,ionicus,Global; Europe; Mediterranean
+827,2024,TRUE,FALSE,FALSE,204832724,https://www.iucnredlist.org/species/204832724/204832746,Podarcis ionicus,LC,204832746,Podarcis,ionicus,Global; Europe; Mediterranean
+828,2024,TRUE,FALSE,FALSE,204900953,https://www.iucnredlist.org/species/204900953/204901543,Podarcis liolepis,LC,204901543,Podarcis,liolepis,Global; Europe
+829,2024,TRUE,FALSE,FALSE,204900953,https://www.iucnredlist.org/species/204900953/204901543,Podarcis liolepis,LC,204901543,Podarcis,liolepis,Global; Europe
+830,2024,TRUE,FALSE,FALSE,204869148,https://www.iucnredlist.org/species/204869148/204869203,Podarcis virescens,LC,204869203,Podarcis,virescens,Global; Europe; Mediterranean
+831,2024,TRUE,FALSE,FALSE,204869148,https://www.iucnredlist.org/species/204869148/204869203,Podarcis virescens,LC,204869203,Podarcis,virescens,Global; Europe; Mediterranean
+832,2024,TRUE,FALSE,FALSE,204869148,https://www.iucnredlist.org/species/204869148/204869203,Podarcis virescens,LC,204869203,Podarcis,virescens,Global; Europe; Mediterranean
+833,2024,TRUE,FALSE,FALSE,42668917,https://www.iucnredlist.org/species/42668917/245088884,Psammodromus algirus,LC,245088884,Psammodromus,algirus,Global
+834,2024,TRUE,FALSE,FALSE,42668917,https://www.iucnredlist.org/species/42668917/217402853,Psammodromus algirus,LC,217402853,Psammodromus,algirus,Europe
+835,2024,TRUE,FALSE,FALSE,42668029,https://www.iucnredlist.org/species/42668029/42668047,Psammodromus edwarsianus,LC,42668047,Psammodromus,edwarsianus,Global; Europe; Mediterranean
+836,2024,TRUE,FALSE,FALSE,42668029,https://www.iucnredlist.org/species/42668029/42668047,Psammodromus edwarsianus,LC,42668047,Psammodromus,edwarsianus,Global; Europe; Mediterranean
+837,2024,TRUE,FALSE,FALSE,42668029,https://www.iucnredlist.org/species/42668029/42668047,Psammodromus edwarsianus,LC,42668047,Psammodromus,edwarsianus,Global; Europe; Mediterranean
+838,2024,TRUE,FALSE,FALSE,19072941,https://www.iucnredlist.org/species/19072941/19072943,Psammodromus occidentalis,LC,19072943,Psammodromus,occidentalis,Global; Europe
+839,2024,TRUE,FALSE,FALSE,19072941,https://www.iucnredlist.org/species/19072941/19072943,Psammodromus occidentalis,LC,19072943,Psammodromus,occidentalis,Global; Europe
+840,2024,TRUE,FALSE,FALSE,54573089,https://www.iucnredlist.org/species/54573089/204888407,Tenuidactylus bogdanovi,NA,204888407,Tenuidactylus,bogdanovi,Europe
+841,2017,TRUE,FALSE,FALSE,54573089,https://www.iucnredlist.org/species/54573089/54573093,Tenuidactylus bogdanovi,LC,54573093,Tenuidactylus,bogdanovi,Global
+842,2024,TRUE,FALSE,FALSE,157255,https://www.iucnredlist.org/species/157255/207992940,Tenuidactylus caspius,NA,207992940,Tenuidactylus,caspius,Europe
+843,2017,TRUE,FALSE,FALSE,157255,https://www.iucnredlist.org/species/157255/49210899,Tenuidactylus caspius,LC,49210899,Tenuidactylus,caspius,Global
+844,2010,FALSE,FALSE,FALSE,157255,https://www.iucnredlist.org/species/157255/5061590,Tenuidactylus caspius,LC,5061590,Tenuidactylus,caspius,Global
+845,2009,FALSE,FALSE,FALSE,157255,https://www.iucnredlist.org/species/157255/5061434,Tenuidactylus caspius,NA,5061434,Tenuidactylus,caspius,Europe
+846,2024,TRUE,FALSE,FALSE,200064594,https://www.iucnredlist.org/species/200064594/207063060,Timon nevadensis,LC,207063060,Timon,nevadensis,Global; Europe; Mediterranean
+847,2024,TRUE,FALSE,FALSE,200064594,https://www.iucnredlist.org/species/200064594/207063060,Timon nevadensis,LC,207063060,Timon,nevadensis,Global; Europe; Mediterranean
+848,2024,TRUE,FALSE,FALSE,200064594,https://www.iucnredlist.org/species/200064594/207063060,Timon nevadensis,LC,207063060,Timon,nevadensis,Global; Europe; Mediterranean
+849,2024,TRUE,FALSE,FALSE,22028,https://www.iucnredlist.org/species/22028/207988853,Trachemys scripta,NA,207988853,Trachemys,scripta,Europe
+850,2011,TRUE,FALSE,FALSE,22028,https://www.iucnredlist.org/species/22028/97429935,Trachemys scripta,LC,97429935,Trachemys,scripta,Global
+851,2011,FALSE,FALSE,FALSE,22028,https://www.iucnredlist.org/species/22028/9347395,Trachemys scripta,LC,9347395,Trachemys,scripta,Global
+852,1996,FALSE,FALSE,FALSE,22028,https://www.iucnredlist.org/species/22028/9347279,Trachemys scripta,LR/nt,9347279,Trachemys,scripta,Global
+853,2024,TRUE,FALSE,FALSE,53789650,https://www.iucnredlist.org/species/53789650/207665793,Vipera graeca,EN,207665793,Vipera,graeca,Global; Europe; Mediterranean
+854,2024,TRUE,FALSE,FALSE,53789650,https://www.iucnredlist.org/species/53789650/207665793,Vipera graeca,EN,207665793,Vipera,graeca,Global; Europe; Mediterranean
+855,2024,TRUE,FALSE,FALSE,53789650,https://www.iucnredlist.org/species/53789650/207665793,Vipera graeca,EN,207665793,Vipera,graeca,Global; Europe; Mediterranean
+856,2018,FALSE,FALSE,FALSE,53789650,https://www.iucnredlist.org/species/53789650/53790137,Vipera graeca,EN,53790137,Vipera,graeca,Global
+857,2024,TRUE,FALSE,FALSE,157274,https://www.iucnredlist.org/species/157274/207993994,Xerotyphlops vermicularis,LC,207993994,Xerotyphlops,vermicularis,Europe
+858,2017,TRUE,FALSE,FALSE,157274,https://www.iucnredlist.org/species/157274/747386,Xerotyphlops vermicularis,LC,747386,Xerotyphlops,vermicularis,Global
+859,2009,FALSE,FALSE,FALSE,157274,https://www.iucnredlist.org/species/157274/5067526,Xerotyphlops vermicularis,LC,5067526,Xerotyphlops,vermicularis,Europe
+860,2017,FALSE,FALSE,FALSE,157274,https://www.iucnredlist.org/species/157274/118237957,Xerotyphlops vermicularis,LC,118237957,Xerotyphlops,vermicularis,Europe
+861,2024,TRUE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/137857016,Zamenis scalaris,LC,137857016,Zamenis,scalaris,Global; Europe
+862,2024,TRUE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/137857016,Zamenis scalaris,LC,137857016,Zamenis,scalaris,Global; Europe
+863,2009,FALSE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/12516902,Zamenis scalaris,LC,12516902,Zamenis,scalaris,Global; Europe
+864,2009,FALSE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/12516902,Zamenis scalaris,LC,12516902,Zamenis,scalaris,Global; Europe
+865,2006,FALSE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/12517062,Zamenis scalaris,LC,12517062,Zamenis,scalaris,Global; Europe
+866,2006,FALSE,FALSE,FALSE,61565,https://www.iucnredlist.org/species/61565/12517062,Zamenis scalaris,LC,12517062,Zamenis,scalaris,Global; Europe
+867,2024,TRUE,FALSE,FALSE,243561918,https://www.iucnredlist.org/species/243561918/243562851,Zootoca carniolica,LC,243562851,Zootoca,carniolica,Global; Europe
+868,2024,TRUE,FALSE,FALSE,243561918,https://www.iucnredlist.org/species/243561918/243562851,Zootoca carniolica,LC,243562851,Zootoca,carniolica,Global; Europe
