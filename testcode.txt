@@ -46,3 +46,50 @@ all_assessments$scope_description <- sapply(all_assessments$scopes, function(sco
 all_assessments$scopes <- NULL  # Remove the original nested 'scopes' column now that it's been flattened
 
 all_assessments  # Display the final combined assessments data frame in the console
+
+############################################################################################################
+# Now let's plot the data
+library(dplyr)
+library(ggplot2)
+amph <- read.csv(file.choose(), header = TRUE, sep = ",") # Load the data of all assessments
+rept <- read.csv(file.choose(), header = TRUE, sep = ",") # Load the data of all assessments
+
+# Function to create heatmap 
+plot_heatmap <- function(df, title) {
+  
+  # Define the typical IUCN order
+  iucn_order <- c("LC", "NT", "VU", "EN", "CR", "EW", "EX")
+  
+  df <- df %>%
+    mutate(
+      red_list_category_code = factor(red_list_category_code,
+                                      levels = iucn_order,
+                                      ordered = TRUE)
+    )
+  
+  # Range of years in the dataset
+  year_range <- range(df$year_published, na.rm = TRUE)
+  
+  ggplot(df, aes(x = year_published, 
+                 y = taxon_scientific_name, 
+                 fill = red_list_category_code)) +
+    geom_tile(color = "grey70") +
+    scale_fill_brewer(type = "seq", palette = "Reds", na.value = "white", name = "IUCN Category") +
+    scale_x_continuous(breaks = seq(year_range[1], year_range[2], by = 1)) +
+    labs(title = title,
+         x = "Assessment Year",
+         y = "Species") +
+    theme_minimal() +
+    theme(
+      axis.text.y = element_text(size = 6),
+      axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+      panel.grid = element_blank()
+    )
+}
+
+# Amphibians heatmap
+plot_heatmap(amph, "Amphibians: IUCN Red List Assessments")
+
+# Reptiles heatmap
+plot_heatmap(rept, "Reptiles: IUCN Red List Assessments")
+
