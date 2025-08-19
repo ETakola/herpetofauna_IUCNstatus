@@ -29,14 +29,14 @@ testcode.txt : script with test code
 
 # Data sources
 
-Reptiles
+## Reptiles
 
 Cox, N.A. and Temple, H.J. 2009. European Red List of Reptiles. Luxembourg: Office for Official Publications of the European Communities. (https://portals.iucn.org/library/sites/library/files/documents/RL-4-004.pdf)
 
-Amphibians
+## Amphibians
 
 Temple, H.J. and Cox, N.A. 2009. European Red List of Amphibians. Luxembourg: Office for Official Publications of the European Communities. (https://portals.iucn.org/library/sites/library/files/documents/RL-4-001.pdf)
 
-Herpetofauna species checklist
+## Herpetofauna species checklist
 
 Speybroeck, J., Beukema, W., Dufresnes, C., Fritz, U., Jablonski, D., Lymberakis, P., ... & Crochet, P. A. (2020). Species list of the European herpetofauna–2020 update by the Taxonomic Committee of the Societas Europaea Herpetologica. Amphibia-Reptilia, 41(2), 139-189. (https://doi.org/10.1163/15685381-bja10010)
