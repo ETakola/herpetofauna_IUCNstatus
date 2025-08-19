@@ -11,7 +11,7 @@ amphibans_RedList_Report2009.csv : Appendix of 2009 report (https://portals.iucn
 
 amphibians_all_assessments.csv : all assessments ever made by IUCN for amphibian species in the 2009 IUCN report
 
-amphibians_missing_species_2020.csv : a file that explains why some species appear in the report of 2009 but not in the 2020 checklist
+amphibians_missing_species_2020.csv : a file that explains why some species appear in the 2020 checklist but not in the 2009 report
 
 amphibians_only_species2009.csv : list of species from the 2009 IUCN report
 
@@ -21,7 +21,7 @@ reptiles_RedList_Report2009.csv : Appendix of 2009 report (https://portals.iucn.
 
 reptiles_all_assessments.csv : all assessments ever made by IUCN for reptile species in the 2009 IUCN report
 
-reptiles_missing_species_2020.csv : a file that explains why some species appear in the report of 2009 but not in the 2020 checklist
+reptiles_missing_species_2020.csv : a file that explains why some species appear in the 2020 checklist but not in the 2009 report
 
 reptiles_only_species2009.csv : list of species from the 2009 IUCN report
 
