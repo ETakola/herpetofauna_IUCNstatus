@@ -5,3 +5,15 @@ If you would like to contribute to this project, feel free to contact me!
 
 ![1654097821](https://github.com/user-attachments/assets/b0d8a5ac-376e-4d6d-9ef1-a972a0277e89)
 Picture 1. A Cretan wall lizard (Source: https://www.eurolizards.com/lizards/podarcis-cretensis/)
+
+# File Explanation
+amphibans_RedList_Report2009.csv : 
+amphibians_all_assessments.csv : 
+amphibians_missing_species_2020.csv : 
+amphibians_only_species2009.csv : 
+get_iucn_status_20250818.R : 
+amphibans_RedList_Report2009.csv : 
+amphibians_all_assessments.csv : 
+amphibians_missing_species_2020.csv : 
+amphibians_only_species2009.csv : 
+testcode.txt : 
