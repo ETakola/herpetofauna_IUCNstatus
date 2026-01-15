@@ -30,3 +30,12 @@ Temple, H.J. and Cox, N.A. 2009. European Red List of Amphibians. Luxembourg: Of
 ## Herpetofauna species checklist
 
 Speybroeck, J., Beukema, W., Dufresnes, C., Fritz, U., Jablonski, D., Lymberakis, P., ... & Crochet, P. A. (2020). Species list of the European herpetofauna–2020 update by the Taxonomic Committee of the Societas Europaea Herpetologica. Amphibia-Reptilia, 41(2), 139-189. (https://doi.org/10.1163/15685381-bja10010)
+
+# Import methodological decisions during the data compilation and pre-processing stage
+
+* Regarding the assessment scope: We selected the *Europe* scope for all species that are non-endemic to Europe and *Global* scope for all endemic species. An exception was made for the species *Euleptes europaea*, which is a non-endemic, but its distribution outside Europe is very limited, thus the Europe and Global scope have a significant overlap when it comes to geography.
+* *Rare* and *Lower Rick/conservation-dependent* are two threat categories that were deprecated in 1994 and 2001 respectively. We replaced them with the closest (previous or later) category of the current classification system.
+
+1. Test
+  * A
+  * B
