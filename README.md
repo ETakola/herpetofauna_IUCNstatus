@@ -36,8 +36,6 @@ Speybroeck, J., Beukema, W., Dufresnes, C., Fritz, U., Jablonski, D., Lymberakis
 * Regarding the assessment scope: We selected the *Europe* scope for all species that are non-endemic to Europe and *Global* scope for all endemic species. An exception was made for the species *Euleptes europaea*, which is a non-endemic, but its distribution outside Europe is very limited, thus the Europe and Global scope have a significant overlap when it comes to geography.
 * *Rare* and *Lower Rick/conservation-dependent* are two threat categories that were deprecated in 1994 and 2001 respectively. We replaced them with the closest (previous or later) category of the current classification system.
 
-<details><summary>Test</summary>
-
-1. Test
-  * A
-  * B
+<details><summary>More information about the assessment process.</summary>
+https://www.iucnredlist.org/assessment/process
+https://www.iucnredlist.org/assessment/updates
