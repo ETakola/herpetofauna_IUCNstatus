@@ -9,8 +9,11 @@ Picture 1. A Cretan wall lizard (Source: https://www.eurolizards.com/lizards/pod
 # Files in the repository
 
 The folder **Data-input-species-list** contains two species lists (one for amphibians and one for reptiles). These species lists are aggragates of the IUCN reports (2009) and the latest herpetofauna checklist (2020). 
+
 The folder **Data-all-assessments** contains two Excel tables with all species-level conservation status assessments that were found in the IUCN database. They were compiled using the script "get_iucn_status_20250818.R".
+
 The folder **Results** contains the visualizations of the data and the produced tables. 
+
 The folder **Scripts** contains the R code that was used to obtain all previous IUCN assessments for each species (get_iucn_status_20250818.R).
 
 # Data sources
