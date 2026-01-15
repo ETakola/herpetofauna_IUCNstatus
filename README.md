@@ -7,27 +7,14 @@ If you would like to contribute to this project, feel free to contact me!
 Picture 1. A Cretan wall lizard (Source: https://www.eurolizards.com/lizards/podarcis-cretensis/)
 
 # Files in the repository
-amphibans_RedList_Report2009.csv : Appendix of 2009 report (https://portals.iucn.org/library/sites/library/files/documents/RL-4-001.pdf)
 
-amphibians_all_assessments.csv : all assessments ever made by IUCN for amphibian species in the 2009 IUCN report
-
-amphibians_missing_species_2020.csv : a file that explains why some species appear in the 2020 checklist but not in the 2009 report
-
-amphibians_only_species2009.csv : list of species from the 2009 IUCN report
-
-get_iucn_status_20250818.R : function to get all IUCN assessments for species (input is a list with species names)
-
-reptiles_RedList_Report2009.csv : Appendix of 2009 report (https://portals.iucn.org/library/sites/library/files/documents/RL-4-004.pdf)
-
-reptiles_all_assessments.csv : all assessments ever made by IUCN for reptile species in the 2009 IUCN report
-
-reptiles_missing_species_2020.csv : a file that explains why some species appear in the 2020 checklist but not in the 2009 report
-
-reptiles_only_species2009.csv : list of species from the 2009 IUCN report
-
-testcode.txt : script with test code
+The folder **Data-input-species-list** contains two species lists (one for amphibians and one for reptiles). These species lists are aggragates of the IUCN reports (2009) and the latest herpetofauna checklist (2020). 
+The folder **Data-all-assessments** contains two Excel tables with all species-level conservation status assessments that were found in the IUCN database. They were compiled using the script "get_iucn_status_20250818.R".
+The folder **Results** contains the visualizations of the data and the produced tables. 
+The folder **Scripts** contains the R code that was used to obtain all previous IUCN assessments for each species (get_iucn_status_20250818.R).
 
 # Data sources
+We compiled a list of species names using the most recent checklist of European herpetofauna (published by the Societas Europaea Herpetologica in 2020) and the Red Lists published by IUCN in 2009. 
 
 ## Reptiles
 
