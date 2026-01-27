@@ -1,3 +1,4 @@
+# Repository file description
 The file "data_for_analysis_20260127.csv" contains the following data: 
 
 |       Column Name            |     Description              |
@@ -21,5 +22,7 @@ The file "data_for_analysis_20260127.csv" contains the following data:
 | scope_description	           |The geographic scope of the assessment     |
 | endemic                      |Is the species endemic?  |
 
-Alt-Note on scope_description
+Some notes on scope_description
 =======
+*In the original downloads, IUCN assessments for endemic species can have double/triple scope tags (e.g. the assessment for a species that is endemic to Europe will have a scope "Global;Europe").
+*The scope Europe and Mediterranean were introduced later.
