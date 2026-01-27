@@ -26,3 +26,4 @@ Some notes on the data
 =======
 * In the original downloads, IUCN assessments for endemic species can have double/triple scope tags (e.g. the assessment for a species that is endemic to Europe will have a scope "Global;Europe").
 * The scope Europe and Mediterranean were introduced later.
+* The recent assessments include species from the area of Caucausus. These species were not included in our analysis. 
