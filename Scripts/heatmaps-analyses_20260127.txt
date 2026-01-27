@@ -1,0 +1,176 @@
+###########################################
+# Project title: IUCN herpetofauna trends
+# Author: Dr. Elina Takola
+# Date: 27 January 2026
+###########################################
+
+###########################################
+# Prep
+###########################################
+library(rredlist)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(purrr)
+library(dplyr)
+library(ggplot2)
+
+df <- read.csv(file.choose(), header = TRUE, sep = ",", stringsAsFactors = FALSE) # import "data_for_analysis_20260127.csv"
+###########################################
+
+
+###########################################
+# Heatmaps
+###########################################
+
+df <- all_assessments_tidy2 %>%
+  mutate(year_published = as.integer(year_published))
+
+# Customize fonts here
+base_family <- "sans"
+title_size  <- 26
+axis_title_size <- 24
+axis_text_size  <- 18
+legend_title_size <- 16
+legend_text_size  <- 16
+
+# IUCN Palette
+iucn_pal <- c(
+  "NA" = "#C1B5A5",  # Not Applicable
+  "NE" = "#FFFFFF",  # Not Evaluated
+  "DD" = "#D1D1C6",  # Data Deficient
+  "LC" = "#60C659",  # Least Concern
+  "NT" = "#CCE226",  # Near Threatened
+  "VU" = "#F9E814",  # Vulnerable
+  "EN" = "#FC7F3F",  # Endangered
+  "CR" = "#D81E05",  # Critically Endangered
+  "RE" = "#9B4F96",  # Regionally Extinct
+  "EW" = "#542344",  # Extinct in the Wild
+  "EX" = "#000000"   # Extinct
+)
+
+# If your data contains extra category codes, add them so ggplot doesn't error
+codes_in_data <- sort(unique(na.omit(df$red_list_category_code)))
+missing_codes <- setdiff(codes_in_data, names(iucn_pal))
+if (length(missing_codes) > 0) {
+  iucn_pal <- c(iucn_pal, setNames(rep("#808080", length(missing_codes)), missing_codes))
+}
+
+# Prep one family+scope data: complete grid of species x ALL consecutive years
+prep_family_heatmap_data <- function(df_group) {
+  years <- seq(
+    min(df_group$year_published, na.rm = TRUE),
+    max(df_group$year_published, na.rm = TRUE),
+    by = 1
+  )
+  
+  df_group %>%
+    filter(!is.na(year_published), !is.na(taxon_scientific_name)) %>%
+    mutate(species_name = taxon_scientific_name) %>%
+    arrange(species_name, year_published, desc(latest), desc(assessment_id)) %>%
+    group_by(species_name, year_published) %>%
+    slice(1) %>%  # keep one assessment per species-year (prefers latest)
+    ungroup() %>%
+    complete(species_name, year_published = years) %>%
+    mutate(
+      species_name = factor(species_name, levels = rev(sort(unique(species_name))))
+    )
+}
+
+# Plot one family+scope heatmap
+plot_family_scope_heatmap <- function(df_group, family_name, scope_name) {
+  plot_df <- prep_family_heatmap_data(df_group)
+  years <- sort(unique(plot_df$year_published))
+  
+  ggplot(plot_df, aes(x = year_published, y = species_name, fill = red_list_category_code)) +
+    geom_tile(color = "grey80", linewidth = 0.25) +
+    scale_fill_manual(values = iucn_pal, na.value = "white", drop = FALSE) +
+    scale_x_continuous(breaks = years, expand = c(0, 0)) +
+    scale_y_discrete(
+      expand = c(0, 0),
+      labels = function(x) parse(text = paste0("italic('", gsub("'", "\\\\'", x), "')"))
+    ) +
+    coord_fixed(ratio = 1) +  # <- square tiles
+    labs(
+      title = paste("IUCN assessments for", family_name, "in", scope_name),
+      x = "Year",
+      y = "Species",
+      fill = "IUCN category"
+    ) +
+    theme_minimal(base_family = base_family) +
+    theme(
+      panel.grid.major = element_blank(),
+      panel.grid.minor = element_blank(),
+      axis.ticks = element_blank(),
+      plot.title   = element_text(size = title_size),
+      axis.title.x = element_text(size = axis_title_size),
+      axis.title.y = element_text(size = axis_title_size),
+      axis.text.x  = element_text(size = axis_text_size, angle = 90, vjust = 0.5, hjust = 1),
+      axis.text.y  = element_text(size = axis_text_size),
+      legend.title = element_text(size = legend_title_size),
+      legend.text  = element_text(size = legend_text_size)
+    )
+}
+
+
+# ---- Split by family + scope, plot + auto-save (AUTO-SIZE) ----
+df <- df %>% filter(!is.na(family), !is.na(scope_description))
+
+df_by_family_scope <- split(df, interaction(df$family, df$scope_description, drop = TRUE, sep = "___"))
+
+out_dir <- "family_scope_heatmaps"
+dir.create(out_dir, showWarnings = FALSE)
+
+# Convert point size to inches (72 pt = 1 inch), then add line spacing.
+top_bottom_margin_in <- 3.5
+line_spacing <- 1.20
+inches_per_label <- (axis_text_size / 72) * line_spacing
+
+# clamps
+min_height <- 10
+max_height <- 200
+
+# width scaling for years
+inches_per_year <- 0.28
+min_width <- 14
+max_width <- 100
+
+family_scope_plots <- lapply(names(df_by_family_scope), function(key) {
+  
+  df_grp <- df_by_family_scope[[key]]
+  fam   <- df_grp$family[1]
+  scope <- df_grp$scope_description[1]
+  
+  yrs <- seq(
+    min(as.integer(df_grp$year_published), na.rm = TRUE),
+    max(as.integer(df_grp$year_published), na.rm = TRUE),
+    by = 1
+  )
+  
+  n_years <- length(yrs)
+  n_species <- dplyr::n_distinct(df_grp$taxon_scientific_name)
+  
+  w <- min(max(min_width,  n_years * inches_per_year), max_width)
+  h_raw <- top_bottom_margin_in + (n_species * inches_per_label)
+  h <- min(max(min_height, h_raw), max_height)
+  
+  p <- plot_family_scope_heatmap(df_grp, fam, scope)
+  
+  safe_fam   <- gsub("[^A-Za-z0-9]+", "_", fam)
+  safe_scope <- gsub("[^A-Za-z0-9]+", "_", scope)
+  
+  ggsave(
+    filename = file.path(out_dir, paste0("heatmap_", safe_fam, "_", safe_scope, ".png")),
+    plot = p,
+    width = w,
+    height = h,
+    dpi = 300,
+    limitsize = FALSE
+  )
+  
+  p
+})
+
+names(family_scope_plots) <- names(df_by_family_scope)
+
+###########################################

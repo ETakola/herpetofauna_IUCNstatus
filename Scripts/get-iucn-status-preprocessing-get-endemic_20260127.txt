@@ -1,0 +1,229 @@
+###########################################
+# Project title: IUCN herpetofauna trends
+# Author: Dr. Elina Takola
+# Date: 27 January 2026
+###########################################
+
+###########################################
+# Prep
+###########################################
+library(rredlist)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(purrr)
+library(dplyr)
+library(ggplot2)
+
+
+rept1 <- read.csv(file.choose(), header = TRUE, sep = ",", stringsAsFactors = FALSE)
+rept2 <- read.csv(file.choose(), header = TRUE, sep = ",", stringsAsFactors = FALSE)
+amph  <- read.csv(file.choose(), header = TRUE, sep = ",", stringsAsFactors = FALSE)
+
+key <- "" # API key
+
+###########################################
+# Get assessments from IUCN 
+###########################################
+get_assessments <- function(df, key) {
+  
+  # Safety check so you get a clear error early
+  if (!all(c("genus", "species") %in% names(df))) {
+    stop("Input df must contain columns named 'genus' and 'species'.")
+  }
+  
+  results <- vector("list", nrow(df))
+  k <- 0
+  
+  for (i in seq_len(nrow(df))) {
+    
+    # BUGFIX: tryCatch must include an error handler, otherwise it will error
+    res <- tryCatch(
+      rl_species(genus = df$genus[i], species = df$species[i], key = key, parse = TRUE),
+      error = function(e) NULL
+    )
+    
+    if (!is.null(res) && !is.null(res$assessments) &&
+        is.data.frame(res$assessments) && nrow(res$assessments) > 0) {
+      
+      assessments <- res$assessments
+      taxon <- res$taxon
+      
+      # add taxonomy + the queried names
+      assessments$kingdom <- taxon$kingdom_name
+      assessments$phylum  <- taxon$phylum_name
+      assessments$class   <- taxon$class_name
+      assessments$order   <- taxon$order_name
+      assessments$family  <- taxon$family_name
+      assessments$genus   <- df$genus[i]
+      assessments$species <- df$species[i]
+      
+      k <- k + 1
+      results[[k]] <- assessments
+    }
+  }
+  
+  results <- results[seq_len(k)]
+  if (length(results) > 0) bind_rows(results) else data.frame()
+}
+
+# Get assessments separately
+assess_rept1 <- get_assessments(rept1, key)
+assess_rept2 <- get_assessments(rept2, key)
+assess_amph <- get_assessments(amph, key)
+
+# Bind
+all_assessments <- bind_rows(assess_rept1, assess_rept2, assess_amph)
+str(all_assessments)
+###########################################
+# Unnest scopes into a tidy table
+###########################################
+get_scope_desc <- function(s) {
+  # s should be a data.frame with either:
+  # (A) columns: en, code
+  # (B) columns: description (data.frame with en), code
+  
+  if (is.null(s)) return(NA_character_)
+  
+  # sometimes it's a tibble/data.frame already; if not, try coercing
+  if (!is.data.frame(s)) {
+    s <- tryCatch(as.data.frame(s), error = function(e) NULL)
+    if (is.null(s)) return(NA_character_)
+  }
+  
+  vals <- NULL
+  
+  # Case A: direct en column
+  if ("en" %in% names(s)) {
+    vals <- s$en
+  }
+  
+  # Case B: nested description$en
+  if (is.null(vals) && "description" %in% names(s) && is.data.frame(s$description) && "en" %in% names(s$description)) {
+    vals <- s$description$en
+  }
+  
+  if (is.null(vals)) return(NA_character_)
+  
+  x <- unique(na.omit(as.character(vals)))
+  if (length(x) == 0) NA_character_ else paste(sort(x), collapse = "; ")
+}
+
+all_assessments_tidy <- all_assessments %>%
+  mutate(scope_description = map_chr(scopes, get_scope_desc)) %>%
+  select(-scopes)
+
+# quick check
+all_assessments_tidy %>%
+  select(taxon_scientific_name, year_published, assessment_id, scope_description) %>%
+  head(20)
+
+all_assessments_tidy %>% count(scope_description, sort = TRUE)
+
+# Which species have "scope = Europe; Global; Mediterranean"?
+library(dplyr)
+triple_species <- all_assessments_tidy %>%
+  filter(grepl("\\bGlobal\\b", scope_description),
+         grepl("\\bEurope\\b", scope_description),
+         grepl("\\bMediterranean\\b", scope_description)) %>%
+  distinct(sis_taxon_id, taxon_scientific_name) %>%
+  arrange(taxon_scientific_name)
+triple_species
+
+###########################################
+# Add endemic column and tidy up scopes 
+###########################################
+all_assessments_tidy <- all_assessments_tidy %>%
+  mutate(
+    # count how many scope tags are present in the cell
+    n_scopes = if_else(
+      is.na(scope_description) | scope_description == "",
+      0L,
+      str_count(scope_description, ";") + 1L
+    ),
+    
+    # endemic: yes if double/triple (>=2), no if single (==1)
+    endemic = if_else(n_scopes >= 2, "yes", "no"),
+    
+    # recode scope_description per your rules
+    scope_description = case_when(
+      # triple: Europe + Global + Mediterranean -> Mediterranean
+      str_detect(scope_description, "\\bEurope\\b") &
+        str_detect(scope_description, "\\bGlobal\\b") &
+        str_detect(scope_description, "\\bMediterranean\\b") ~ "Mediterranean",
+      
+      # double: Europe + Global -> Europe
+      str_detect(scope_description, "\\bEurope\\b") &
+        str_detect(scope_description, "\\bGlobal\\b") ~ "Europe",
+      
+      # otherwise keep as-is (single labels, and any other combos)
+      TRUE ~ scope_description
+    )
+  ) %>%
+  select(-n_scopes)  # optional helper column removal
+
+
+# Now remove Global scopes 
+all_assessments_tidy <- all_assessments_tidy %>%
+  filter(scope_description != "Global" | is.na(scope_description))
+
+
+
+###########################################
+# Check output
+###########################################
+
+df <- all_assessments_tidy
+rare_df <- df %>% filter(red_list_category_code == "R")
+# "Cases" = number of assessment rows that are R
+n_cases_R <- nrow(rare_df)
+
+# Species count (pick the definition you prefer)
+n_species_R_by_id   <- rare_df %>% summarise(n = n_distinct(sis_taxon_id)) %>% pull(n)
+n_species_R_by_name <- rare_df %>% summarise(n = n_distinct(taxon_scientific_name)) %>% pull(n)
+
+cat("Rare (R) cases (assessment rows):", n_cases_R, "\n")
+cat("Rare (R) species (distinct sis_taxon_id):", n_species_R_by_id, "\n")
+cat("Rare (R) species (distinct taxon_scientific_name):", n_species_R_by_name, "\n")
+
+rare_species <- rare_df %>%
+  distinct(sis_taxon_id, taxon_scientific_name) %>%
+  arrange(taxon_scientific_name)
+
+rare_species
+
+timeline <- df %>%
+  filter(!is.na(year_published)) %>%
+  count(year_published, name = "n_assessments") %>%
+  arrange(year_published)
+
+timeline
+
+ggplot(timeline, aes(x = year_published, y = n_assessments)) +
+  geom_line() +
+  geom_point() +
+  labs(x = "Year published", y = "Number of assessments",
+       title = "Assessments per year (published)")
+
+# Data prep
+all_assessments_tidy2 <- all_assessments_tidy %>%
+  mutate(
+    red_list_category_code = case_when(
+      # legacy codes -> modern
+      red_list_category_code == "LR/cd" ~ "NT",
+      red_list_category_code == "LR/lc" ~ "LC",
+      red_list_category_code == "LR/nt" ~ "NT",
+      red_list_category_code == "E"     ~ "EN",
+      red_list_category_code == "V"     ~ "VU",
+      red_list_category_code == "K"     ~ "DD",
+      
+      # merge all NAs (true NA + "NA" string) into "NA"
+      is.na(red_list_category_code) | red_list_category_code == "NA" ~ "NA",
+      
+      TRUE ~ red_list_category_code
+    )
+  ) %>%
+  group_by(sis_taxon_id) %>%
+  filter(!any(red_list_category_code == "R", na.rm = TRUE)) %>%
+  ungroup()
+
